@@ -442,7 +442,7 @@ fun UpdateScreen(navController: NavHostController) {
                                         horizontalAlignment = Alignment.Start
                                     ) {
                                         Text(
-                                            text = "What's New in Snuggle Musix",
+                                            text = "What's New in JanSiv-Musix",
                                             style = MaterialTheme.typography.titleMedium,
                                             fontWeight = FontWeight.Bold,
                                             color = MaterialTheme.colorScheme.primary,

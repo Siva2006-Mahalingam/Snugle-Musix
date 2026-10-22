@@ -24,7 +24,7 @@
     <string name="most_played_artists">Legtöbbet játszott előadók</string>
     <string name="most_played_albums">Legtöbbet játszott albumok</string>
     <string name="search">Keresés</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Keresés a könyvtárban…</string>
     <string name="filter_library">Könyvtár</string>
     <string name="filter_liked">Kedvelt</string>
@@ -353,7 +353,7 @@
 
 
     <string name="spotify_import_title">Importálás Spotify-ból</string>
-    <string name="spotify_import_desc">Csatlakoztassa a Spotify-t, válasszon lejátszási listákat, és tükrözze azokat a helyi Snuggle Musix lejátszási listákba.</string>
+    <string name="spotify_import_desc">Csatlakoztassa a Spotify-t, válasszon lejátszási listákat, és tükrözze azokat a helyi JanSiv-Musix lejátszási listákba.</string>
     <string name="spotify_connect">Spotify csatlakoztatása</string>
     <string name="spotify_refresh">Spotify könyvtár frissítése</string>
     <string name="spotify_select_sources">Spotify lejátszási listák kiválasztása</string>

@@ -267,7 +267,7 @@
   <string name="lyrics_offset">æ­Œè©žã®ã‚¿ã‚¤ãƒŸãƒ³ã‚°ã‚’èª¿æ•´</string>
   <string name="google_cast_description">Chromecastãªã©ã®ã‚­ãƒ£ã‚¹ãƒˆå¯¾å¿œã®ãƒ‡ãƒã‚¤ã‚¹ã«éŸ³å£°ã‚’ã‚­ãƒ£ã‚¹ãƒˆã§ãã¾ã™</string>
   <string name="last_fm_send_likes">é«˜è©•ä¾¡/ä½Žè©•ä¾¡ã‚’åæ˜ ã™ã‚‹</string>
-  <string name="last_fm_send_likes_description">Snuggle Musixã§æ›²ã«é«˜è©•ä¾¡/ä½Žè©•ä¾¡ã‚’ã¤ã‘ã‚‹ã¨ã€Last.fmã§ã‚‚ãƒ©ãƒ–/ã‚¢ãƒ³ãƒ©ãƒ–ã•ã‚Œã¾ã™</string>
+  <string name="last_fm_send_likes_description">JanSiv-Musixã§æ›²ã«é«˜è©•ä¾¡/ä½Žè©•ä¾¡ã‚’ã¤ã‘ã‚‹ã¨ã€Last.fmã§ã‚‚ãƒ©ãƒ–/ã‚¢ãƒ³ãƒ©ãƒ–ã•ã‚Œã¾ã™</string>
   <string name="edit_desc">ã‚¿ã‚¤ãƒˆãƒ«ã‚„ã‚¢ãƒ¼ãƒ†ã‚£ã‚¹ãƒˆåã‚’å¤‰æ›´ã—ã¾ã™</string>
   <string name="start_radio_desc">ã“ã®æ›²ã‚’ã‚‚ã¨ã«ä¼¼ãŸæ›²ã‚’å†ç”Ÿã—ã¾ã™</string>
   <string name="play_next_desc">ã‚­ãƒ¥ãƒ¼ã®å…ˆé ­ã«è¿½åŠ ã—ã¾ã™</string>
@@ -288,7 +288,7 @@
   <string name="listen_together">Listen Together</string>
   <string name="decryption_library_pipepipe_api">PipePipe API</string>
   <string name="play_pause">å†ç”Ÿ/åœæ­¢</string>
-  <string name="wrapped_intro_title">Snuggle Musix</string>
+  <string name="wrapped_intro_title">JanSiv-Musix</string>
   <string name="apple_music_style">Apple Music</string>
   <string name="karaoke">ã‚«ãƒ©ã‚ªã‚±</string>
   <string name="none">ãªã—</string>
@@ -304,7 +304,7 @@
   <string name="eq_disabled">ç„¡åŠ¹</string>
   <string name="error_title">ã‚¨ãƒ©ãƒ¼</string>
   <string name="listen_on_youtube_music">YouTube Musicã§è´ã</string>
-  <string name="visit_echomusic">Snuggle Musixã«ç§»å‹•</string>
+  <string name="visit_echomusic">JanSiv-Musixã«ç§»å‹•</string>
   <string name="open">é–‹ã</string>
   <string name="copied_title">ã‚¿ã‚¤ãƒˆãƒ«ã‚’ã‚³ãƒ”ãƒ¼ã—ã¾ã—ãŸ</string>
   <string name="copied_artist">ã‚¢ãƒ¼ãƒ†ã‚£ã‚¹ãƒˆåã‚’ã‚³ãƒ”ãƒ¼ã—ã¾ã—ãŸ</string>
@@ -358,7 +358,7 @@
   <string name="crash_title">ã‚¢ãƒ—ãƒªãŒã‚¯ãƒ©ãƒƒã‚·ãƒ¥ã—ã¾ã—ãŸ</string>
   <string name="crash_share_logs">ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ãƒ­ã‚°ã‚’å…±æœ‰</string>
   <string name="crash_share_title">ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ãƒ¬ãƒãƒ¼ãƒˆã‚’å…±æœ‰</string>
-  <string name="crash_report_subject">Snuggle Musixã®ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ãƒ¬ãƒãƒ¼ãƒˆ</string>
+  <string name="crash_report_subject">JanSiv-Musixã®ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ãƒ¬ãƒãƒ¼ãƒˆ</string>
   <string name="crash_close">é–‰ã˜ã‚‹</string>
   <string name="crash_no_log">ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ãƒ­ã‚°ãŒã‚ã‚Šã¾ã›ã‚“</string>
   <string name="palette_dynamic">ãƒ€ã‚¤ãƒŠãƒŸãƒƒã‚¯</string>
@@ -442,12 +442,12 @@
   <string name="wrapped_total_songs_subtitle">ãƒ¦ãƒ‹ãƒ¼ã‚¯ãªæ›²æ•°</string>
   <string name="wrapped_intro_subtitle">ã“ã‚Œã¾ã§ã«è´ã„ã¦ããŸéŸ³æ¥½ã‚’æŒ¯ã‚Šè¿”ã‚Šã¾ã—ã‚‡ã†</string>
   <string name="wrapped_intro_button">ã•ã‚ã€å§‹ã‚ã‚ˆã†ï¼</string>
-  <string name="wrapped_end_thanks">Snuggle Musixã§è´ã„ã¦ãã‚Œã¦ã‚ã‚ŠãŒã¨ã†ï¼</string>
-  <string name="wrapped_logo_content_description">Snuggle Musixãƒ­ã‚´</string>
+  <string name="wrapped_end_thanks">JanSiv-Musixã§è´ã„ã¦ãã‚Œã¦ã‚ã‚ŠãŒã¨ã†ï¼</string>
+  <string name="wrapped_logo_content_description">JanSiv-Musixãƒ­ã‚´</string>
   <string name="wrapped_ready_title">ã‚ãªãŸã®WrappedãŒå®Œæˆã—ã¾ã—ãŸï¼</string>
   <string name="wrapped_ready_subtitle">ä»Šå¹´ã‚ãªãŸãŒå¤¢ä¸­ã«ãªã£ãŸéŸ³æ¥½ã‚’è¦‹ã¦ã¿ã¾ã—ã‚‡ã†ã€‚</string>
   <string name="wrapped_thank_you">è´ã„ã¦ãã‚Œã¦ã‚ã‚ŠãŒã¨ã†</string>
-  <string name="wrapped_special_thanks">Snuggle Musixã‚’åˆ¶ä½œã—ãŸMO Agamyã«ç‰¹åˆ¥ãªæ„Ÿè¬ã‚’</string>
+  <string name="wrapped_special_thanks">JanSiv-Musixã‚’åˆ¶ä½œã—ãŸMO Agamyã«ç‰¹åˆ¥ãªæ„Ÿè¬ã‚’</string>
   <string name="wrapped_close">Wrappedã‚’é–‰ã˜ã‚‹</string>
   <string name="wrapped_playlist_title">ã‚ãªãŸã®%sWrapped</string>
   <plurals name="profiles_count">
@@ -462,7 +462,7 @@
   <string name="error_eq_apply_failed">ã‚¤ã‚³ãƒ©ã‚¤ã‚¶ãƒ¼ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é©ç”¨ã§ãã¾ã›ã‚“ï¼š%1$s</string>
   <string name="casting_to">%sã«ã‚­ãƒ£ã‚¹ãƒˆä¸­</string>
   <string name="progress_percent">é€²è¡ŒçŠ¶æ³ï¼š%s%%</string>
-  <string name="listening_to_echomusic">Snuggle Musixã§å†ç”Ÿä¸­</string>
+  <string name="listening_to_echomusic">JanSiv-Musixã§å†ç”Ÿä¸­</string>
   <string name="failed_to_create_image">ç”»åƒã®ä½œæˆã«å¤±æ•—ã—ã¾ã—ãŸï¼š%s</string>
   <string name="error_playing">å†ç”Ÿä¸­ã«ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¾ã—ãŸ</string>
   <string name="failed_to_parse_proxy">ãƒ—ãƒ­ã‚­ã‚·URLã‚’è§£æžã§ãã¾ã›ã‚“ã€‚</string>
@@ -470,9 +470,9 @@
   <string name="error_copied">ã‚¨ãƒ©ãƒ¼æƒ…å ±ã‚’ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã«ã‚³ãƒ”ãƒ¼ã—ã¾ã—ãŸ</string>
   <string name="error_copy_hint">ã‚¨ãƒ©ãƒ¼æƒ…å ±ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ã€é–‹ç™ºè€…ãŒå•é¡Œã‚’ç‰¹å®šã§ãã‚‹ã‚ˆã†ã«ã—ã¾ã™</string>
   <string name="no_song_playing">å†ç”Ÿä¸­ã®æ›²ã¯ã‚ã‚Šã¾ã›ã‚“</string>
-  <string name="tap_to_open">ã‚¿ãƒƒãƒ—ã—ã¦Snuggle Musixã‚’é–‹ã</string>
+  <string name="tap_to_open">ã‚¿ãƒƒãƒ—ã—ã¦JanSiv-Musixã‚’é–‹ã</string>
   <string name="previous">å‰ã¸</string>
-  <string name="tap_to_play">ã‚¿ãƒƒãƒ—ã—ã¦Snuggle Musixã‚’é–‹ã</string>
+  <string name="tap_to_play">ã‚¿ãƒƒãƒ—ã—ã¦JanSiv-Musixã‚’é–‹ã</string>
   <string name="queue_widget_description">å†ç”Ÿã‚­ãƒ¥ãƒ¼ã‚’ç¢ºèªã§ãã‚‹éŸ³æ¥½ãƒ—ãƒ¬ãƒ¼ãƒ¤ãƒ¼</string>
   <string name="listen_together_you_are_host">ã‚ãªãŸã¯ãƒ›ã‚¹ãƒˆã§ã™</string>
   <string name="listen_together_you_are_guest">ã‚ãªãŸã¯ã‚²ã‚¹ãƒˆã§ã™</string>
@@ -562,7 +562,7 @@
   <string name="delete_from_history">å±¥æ­´ã‹ã‚‰å‰Šé™¤</string>
   <string name="re_listen">ã‚‚ã†ä¸€åº¦è´ã</string>
   <string name="hold_to_recognize">æ¤œç´¢ã‚¿ãƒ–ã‚’é•·æŠ¼ã—ã—ã¦éŸ³æ¥½ã‚’èªè­˜</string>
-  <string name="play_on_app">Snuggle Musixã§å†ç”Ÿ</string>
+  <string name="play_on_app">JanSiv-Musixã§å†ç”Ÿ</string>
   <string name="recognized_track">èªè­˜ã•ã‚ŒãŸæ›²</string>
   <string name="map_csv_columns">CSVåˆ—ã®å¯¾å¿œè¨­å®š</string>
   <string name="first_row_is_header">1è¡Œç›®ã‚’ãƒ˜ãƒƒãƒ€ãƒ¼ã¨ã—ã¦æ‰±ã†</string>
@@ -617,9 +617,9 @@
   <string name="discord_rpc_preview">ãƒªãƒƒãƒãƒ—ãƒ¬ã‚¼ãƒ³ã‚¹ã®ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼</string>
   <string name="discord_presence">ãƒ—ãƒ¬ã‚¼ãƒ³ã‚¹</string>
   <string name="discord_connect_description">Discordã«ã‚µã‚¤ãƒ³ã‚¤ãƒ³ã—ã¦ã€å†ç”Ÿä¸­ã®å†…å®¹ã‚’å…±æœ‰ã—ã‚ˆã†</string>
-  <string name="discord_playing_echomusic">Snuggle Musixã§å†ç”Ÿä¸­</string>
-  <string name="discord_watching_echomusic">Snuggle Musixã§è¦–è´ä¸­</string>
-  <string name="discord_competing_echomusic">Snuggle Musixã§å¤§ä¼šã«å‚åŠ ä¸­</string>
+  <string name="discord_playing_echomusic">JanSiv-Musixã§å†ç”Ÿä¸­</string>
+  <string name="discord_watching_echomusic">JanSiv-Musixã§è¦–è´ä¸­</string>
+  <string name="discord_competing_echomusic">JanSiv-Musixã§å¤§ä¼šã«å‚åŠ ä¸­</string>
   <string name="discord_activity_name">ã‚¢ã‚¯ãƒ†ã‚£ãƒ“ãƒ†ã‚£å</string>
   <string name="discord_activity_name_description">ã‚¢ã‚¯ãƒ†ã‚£ãƒ“ãƒ†ã‚£ã®ã‚«ã‚¹ã‚¿ãƒ åï¼ˆç©ºæ¬„ã®å ´åˆã¯ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã‚’ä½¿ç”¨ï¼‰</string>
   <string name="discord_advanced_mode">è©³ç´°è¨­å®š</string>

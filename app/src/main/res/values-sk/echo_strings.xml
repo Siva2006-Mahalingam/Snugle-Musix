@@ -229,7 +229,7 @@
   <string name="scrobble_delay_percent">PercentuÃ¡lne oneskorenie Scrobble</string>
   <string name="scrobble_delay_minutes">MinÃºty oneskorenia Scrobble</string>
   <string name="last_fm_send_likes">OdoslaÅ¥ oznaÄenia PÃ¡Äi sa mi to/NepÃ¡Äi sa mi to</string>
-  <string name="last_fm_send_likes_description">Piesne, ktorÃ© sa mi pÃ¡Äia/nepÃ¡Äia, sa mi pÃ¡Äia na Last.fm, keÄ sa mi pÃ¡Äia/nepÃ¡Äia na Snuggle Musixe</string>
+  <string name="last_fm_send_likes_description">Piesne, ktorÃ© sa mi pÃ¡Äia/nepÃ¡Äia, sa mi pÃ¡Äia na Last.fm, keÄ sa mi pÃ¡Äia/nepÃ¡Äia na JanSiv-Musixe</string>
   <string name="top_result">Top vÃ½sledok</string>
   <string name="other_results">ÄŽalÅ¡ie</string>
   <string name="download_playlist_desc">StiahnuÅ¥ vÅ¡etky skladby na poÄÃºvanie offline</string>
@@ -304,14 +304,14 @@
   <string name="wrapped_total_artists_subtitle">JedineÄnÃ­ interpreti</string>
   <string name="wrapped_total_songs_title">VypoÄuli ste si</string>
   <string name="wrapped_total_songs_subtitle">JedineÄnÃ© skladby</string>
-  <string name="wrapped_intro_title">Snuggle Musix</string>
+  <string name="wrapped_intro_title">JanSiv-Musix</string>
   <string name="wrapped_intro_subtitle">Je Äas zistiÅ¥, Äo ste poÄÃºvali</string>
   <string name="wrapped_intro_button">poÄme!</string>
-  <string name="wrapped_end_thanks">ÄŽakujeme za poÄÃºvanie s Snuggle Musixom!</string>
+  <string name="wrapped_end_thanks">ÄŽakujeme za poÄÃºvanie s JanSiv-Musixom!</string>
   <string name="wrapped_end_create_playlist">Vytvorte si svoj Wrapped zoznam skladieb</string>
   <string name="wrapped_end_creating_playlist">VytvÃ¡ra sa...</string>
   <string name="wrapped_end_playlist_saved">Zoznam skladieb bol uloÅ¾enÃ½</string>
-  <string name="wrapped_logo_content_description">Snuggle Musix Logo</string>
+  <string name="wrapped_logo_content_description">JanSiv-Musix Logo</string>
   <string name="wrapped_year">2025</string>
   <string name="wrapped_ready_title">VAÅ E WRAPPED JE HOTOVÃ‰!</string>
   <string name="wrapped_ready_subtitle">Je Äas pozrieÅ¥ sa, Äo sa vÃ¡m tento rok pÃ¡Äilo.</string>

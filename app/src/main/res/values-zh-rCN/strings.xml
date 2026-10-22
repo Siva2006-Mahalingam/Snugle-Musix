@@ -23,7 +23,7 @@
     <string name="most_played_artists">最常播放的音乐人</string>
     <string name="most_played_albums">最常播放的专辑</string>
     <string name="search">搜索</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">搜索媒体库…</string>
     <string name="filter_library">媒体库</string>
     <string name="filter_liked">喜欢</string>
@@ -343,7 +343,7 @@
 
 
     <string name="spotify_import_title">从 Spotify 导入</string>
-    <string name="spotify_import_desc">连接 Spotify，选择播放列表，并将其镜像到本地 Snuggle Musix 播放列表。</string>
+    <string name="spotify_import_desc">连接 Spotify，选择播放列表，并将其镜像到本地 JanSiv-Musix 播放列表。</string>
     <string name="spotify_connect">连接 Spotify</string>
     <string name="spotify_refresh">刷新 Spotify 媒体库</string>
     <string name="spotify_select_sources">选择 Spotify 播放列表</string>

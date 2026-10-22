@@ -25,7 +25,7 @@
     <string name="most_played_artists">Artistas mais tocados</string>
     <string name="most_played_albums">Álbuns mais tocados</string>
     <string name="search">Pesquisar</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Pesquisar na biblioteca…</string>
     <string name="filter_library">Biblioteca</string>
     <string name="filter_liked">Favoritos</string>
@@ -365,7 +365,7 @@
 
 
     <string name="spotify_import_title">Importar do Spotify</string>
-    <string name="spotify_import_desc">Conecte o Spotify, escolha playlists e espelhe-as em playlists locais do Snuggle Musix.</string>
+    <string name="spotify_import_desc">Conecte o Spotify, escolha playlists e espelhe-as em playlists locais do JanSiv-Musix.</string>
     <string name="spotify_connect">Conectar Spotify</string>
     <string name="spotify_refresh">Atualizar biblioteca do Spotify</string>
     <string name="spotify_select_sources">Selecionar playlists do Spotify</string>

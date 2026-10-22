@@ -26,10 +26,10 @@ object ListenTogetherServers {
     private val _servers = MutableStateFlow(
         listOf(
             ListenTogetherServer(
-                name = "Snuggle Musix Server",
+                name = "JanSiv-Musix Server",
                 url = "wss://devilmi-vivi-music-listen-together.hf.space",
-                location = "Global - Snuggle Musix",
-                operator = "Snuggle"
+                location = "Global - JanSiv-Musix",
+                operator = "JanSiv"
             )
         )
     )
@@ -49,14 +49,14 @@ object ListenTogetherServers {
                     val jsonObject = Json.parseToJsonElement(jsonString).jsonObject
                     val name = jsonObject["name"]?.jsonPrimitive?.content ?: "Hugging Face Sync"
                     val url = jsonObject["serverUrl"]?.jsonPrimitive?.content ?: "wss://devilmi-vivi-music-listen-together.hf.space"
-                    val region = jsonObject["region"]?.jsonPrimitive?.content ?: "Global - Snuggle"
+                    val region = jsonObject["region"]?.jsonPrimitive?.content ?: "Global - JanSiv"
                     
                     _servers.value = listOf(
                         ListenTogetherServer(
                             name = name,
                             url = url,
                             location = region,
-                            operator = "Snuggle"
+                            operator = "JanSiv"
                         )
                     )
                 }

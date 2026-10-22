@@ -886,7 +886,7 @@ class MainActivity : ComponentActivity() {
                 }
 
                 val currentTitle = when (navBackStackEntry?.destination?.route) {
-                    Screens.Home.route -> "Snuggle Musix"
+                    Screens.Home.route -> stringResource(R.string.app_name)
                     Screens.Search.route -> stringResource(R.string.search)
                     Screens.Library.route -> stringResource(R.string.filter_library)
                     Screens.ListenTogether.route -> stringResource(R.string.together)
@@ -1435,7 +1435,7 @@ LocalGlassEffectConfig provides glassEffectConfig,
                                     verticalArrangement = Arrangement.spacedBy(10.dp)
                                 ) {
                                     Text(
-                                        text = "A new version of Snuggle Musix is ready with new features and performance enhancements.",
+                                        text = "A new version of JanSiv-Musix is ready with new features and performance enhancements.",
                                         style = MaterialTheme.typography.bodyMedium,
                                         color = MaterialTheme.colorScheme.onSurfaceVariant
                                     )

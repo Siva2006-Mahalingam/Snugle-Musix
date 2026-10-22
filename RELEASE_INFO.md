@@ -1,4 +1,4 @@
-# Snuggle Musix v6.0.2
+﻿# JanSiv-Musix v6.0.2
 
 ### 🚀 What's New & Improvements
 - **⚡ Fast Loading & Playback Stream Fix**: Prioritized `WEB_REMIX` as the main playback client to prevent bot challenges, sign-in lockout loops, and play stalling.

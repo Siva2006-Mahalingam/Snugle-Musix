@@ -70,7 +70,7 @@ highlightKey: String? = null) {
 
     val canvasServices = remember {
         mutableStateListOf(
-            ServiceStatus("Snugle Canvas", { "https://github.com/Siva2006-Mahalingam/Snugle-Musix" }),
+            ServiceStatus("JanSiv Canvas", { "https://github.com/Siva2006-Mahalingam/Snugle-Musix" }),
             ServiceStatus("Tidal Canvas", { "https://api.tidal.com/v1/" })
         )
     }
@@ -101,7 +101,7 @@ highlightKey: String? = null) {
     val otherServices = remember {
         mutableStateListOf(
             ServiceStatus("Apple Music API", { "https://amp-api.music.apple.com" }),
-            ServiceStatus("Snuggle Find (Shazam)", { "https://amp.shazam.com" })
+            ServiceStatus("JanSiv Find (Shazam)", { "https://amp.shazam.com" })
         )
     }
 

@@ -23,7 +23,7 @@
     <string name="most_played_artists">Nghệ sĩ được phát nhiều nhất</string>
     <string name="most_played_albums">Album được phát nhiều nhất</string>
     <string name="search">Tìm kiếm</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Tìm kiếm trong thư viện…</string>
     <string name="filter_library">Thư viện</string>
     <string name="filter_liked">Đã thích</string>
@@ -334,7 +334,7 @@
 
 
     <string name="spotify_import_title">Nhập từ Spotify</string>
-    <string name="spotify_import_desc">Kết nối Spotify, chọn danh sách phát và phản chiếu chúng vào danh sách phát Snuggle Musix cục bộ.</string>
+    <string name="spotify_import_desc">Kết nối Spotify, chọn danh sách phát và phản chiếu chúng vào danh sách phát JanSiv-Musix cục bộ.</string>
     <string name="spotify_connect">Kết nối Spotify</string>
     <string name="spotify_refresh">Làm mới thư viện Spotify</string>
     <string name="spotify_select_sources">Chọn danh sách phát Spotify</string>

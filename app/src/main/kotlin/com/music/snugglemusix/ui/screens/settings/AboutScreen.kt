@@ -201,13 +201,13 @@ private fun AboutAppCard() {
                 if (rotation <= 90f) {
                     Image(
                         painter = painterResource(logoDrawable),
-                        contentDescription = "Snuggle Musix Logo",
+                        contentDescription = "JanSiv-Musix Logo",
                         modifier = Modifier.fillMaxSize().clip(CircleShape)
                     )
                 } else {
                     Image(
                         painter = painterResource(logoDrawable),
-                        contentDescription = "Snuggle Musix Logo",
+                        contentDescription = "JanSiv-Musix Logo",
                         modifier = Modifier
                             .fillMaxSize()
                             .clip(CircleShape)

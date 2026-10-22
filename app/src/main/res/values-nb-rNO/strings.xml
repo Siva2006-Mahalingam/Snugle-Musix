@@ -24,7 +24,7 @@
     <string name="most_played_artists">Mest spilte artister</string>
     <string name="most_played_albums">Mest spilte album</string>
     <string name="search">Søk</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Søk gjennom biblioteket …</string>
     <string name="filter_library">Bibliotek</string>
     <string name="filter_liked">Likte</string>
@@ -350,7 +350,7 @@
 
 
     <string name="spotify_import_title">Importer fra Spotify</string>
-    <string name="spotify_import_desc">Koble til Spotify, velg spillelister, og speil dem til lokale Snuggle Musix-spillelister.</string>
+    <string name="spotify_import_desc">Koble til Spotify, velg spillelister, og speil dem til lokale JanSiv-Musix-spillelister.</string>
     <string name="spotify_connect">Koble til Spotify</string>
     <string name="spotify_refresh">Oppdater Spotify-biblioteket</string>
     <string name="spotify_select_sources">Velg Spotify-spillelister</string>

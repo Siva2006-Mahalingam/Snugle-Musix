@@ -1,4 +1,4 @@
-# Security Policy
+﻿# Security Policy
 
 ## Supported Versions
 
@@ -11,7 +11,7 @@ We release patches for security vulnerabilities in the following versions:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Snuggle Musix, please report it responsibly:
+If you discover a security vulnerability in JanSiv-Musix, please report it responsibly:
 
 1. **Do NOT** create a public GitHub issue
 2. Email us at: [security@snugglemusic.fun](mailto:security@snugglemusic.fun)
@@ -48,7 +48,7 @@ The following files contain sensitive information and should never be committed:
 
 ## Data Privacy
 
-Snuggle Musix is committed to user privacy:
+JanSiv-Musix is committed to user privacy:
 
 - **No personal data collection**: We don't collect personal information
 - **Local storage**: User data is stored locally on the device
@@ -62,4 +62,4 @@ For security-related questions or to report vulnerabilities:
 - Email: [security@snugglemusic.fun](mailto:security@snugglemusic.fun)
 - GitHub: Create a private security advisory
 
-Thank you for helping keep Snuggle Musix secure!
+Thank you for helping keep JanSiv-Musix secure!

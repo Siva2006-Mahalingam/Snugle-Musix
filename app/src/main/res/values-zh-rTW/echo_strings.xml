@@ -216,7 +216,7 @@
   <string name="enable_scrobbling">é–‹å•Ÿç´€éŒ„æ’­æ”¾æ­Œæ›²</string>
   <string name="lastfm_now_playing">å‚³é€æ­£åœ¨æ’­æ”¾æ­Œæ›²</string>
   <string name="last_fm_send_likes">å‚³é€å–œæ­¡/ä¸å–œæ­¡æ­Œæ›²</string>
-  <string name="last_fm_send_likes_description">åŒæ­¥ Snuggle Musix å–œæ­¡/ä¸å–œæ­¡æ­Œæ›²åˆ° Last.fm</string>
+  <string name="last_fm_send_likes_description">åŒæ­¥ JanSiv-Musix å–œæ­¡/ä¸å–œæ­¡æ­Œæ›²åˆ° Last.fm</string>
   <string name="scrobbling_configuration">æ­Œæ›²ç´€éŒ„è¨­å®š</string>
   <string name="scrobble_min_track_duration">ç´€éŒ„æ’­æ”¾é•·åº¦è¶…éŽä»¥ä¸‹æ™‚é–“çš„æ­Œæ›²</string>
   <string name="scrobble_delay_percent">ç´€éŒ„å»¶é²æ¯”ä¾‹</string>
@@ -279,7 +279,7 @@
   <string name="delete_profile_confirmation">ç¢ºå®šè¦åˆªé™¤ %1$s å—Žï¼Ÿåˆªé™¤å¾Œå°‡ç„¡æ³•æ¢å¾©</string>
   <string name="enable_wavy_slider">å•Ÿç”¨ Wavy slider</string>
   <string name="wavy">Wavy</string>
-  <string name="visit_echomusic">è¨ªå• Snuggle Musix</string>
+  <string name="visit_echomusic">è¨ªå• JanSiv-Musix</string>
   <string name="enable_dynamic_icon">å•Ÿç”¨å‹•æ…‹ icon</string>
   <string name="enable_simpmusic">å•Ÿç”¨ SimpMusic æ­Œè©ž</string>
   <string name="enable_simpmusic_desc">ä½¿ç”¨ SimpMusic ä»¥åŒæ­¥æ­Œè©ž</string>
@@ -297,7 +297,7 @@
   <string name="pause_music_when_media_is_muted">éœéŸ³æ™‚æš«åœéŸ³æ¨‚æ’­æ”¾</string>
   <string name="listen_on_youtube_music">åœ¨ YouTube Music ä¸Šè†è½</string>
   <string name="turntable_widget_description">å¿«é€Ÿå­˜å–æœ€è¿‘æ’­æ”¾çš„æ›²ç›®</string>
-  <string name="tap_to_open">é»žæ“Šé–‹å•Ÿ Snuggle Musix</string>
+  <string name="tap_to_open">é»žæ“Šé–‹å•Ÿ JanSiv-Musix</string>
   <string name="persistent_shuffle_desc">åœ¨é–‹å§‹æ’­æ”¾æ–°æ­Œæ›²æˆ–æ’­æ”¾æ¸…å–®æ™‚ï¼Œä»ç¶­æŒéš¨æ©Ÿæ’­æ”¾ç‹€æ…‹</string>
   <string name="persistent_shuffle_title">å›ºå®šéš¨æ©Ÿæ’­æ”¾</string>
 </resources>

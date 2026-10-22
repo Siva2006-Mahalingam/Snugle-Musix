@@ -1,6 +1,6 @@
-# Setup Instructions
+﻿# Setup Instructions
 
-This document provides instructions for setting up the Snuggle Musix project for development.
+This document provides instructions for setting up the JanSiv-Musix project for development.
 
 ## Prerequisites
 
@@ -14,8 +14,8 @@ This document provides instructions for setting up the Snuggle Musix project for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Siva2006-Mahalingam/Snugle-Musix.git
-cd Snugle-Musix
+git clone https://github.com/Siva2006-Mahalingam/JanSiv-Musix.git
+cd JanSiv-Musix
 ```
 
 ### 2. Configure Local Properties
@@ -96,7 +96,7 @@ Open the project in Android Studio or build from the command line.
 
 ### 6. Configure AI Translation (Optional)
 
-Snuggle Musix supports AI-powered lyrics translation. You can configure this in **Settings -> AI Settings**.
+JanSiv-Musix supports AI-powered lyrics translation. You can configure this in **Settings -> AI Settings**.
 
 #### Option A: Using OpenRouter (Default)
 

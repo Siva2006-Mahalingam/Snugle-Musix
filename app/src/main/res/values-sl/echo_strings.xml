@@ -227,7 +227,7 @@
   <string name="scrobble_delay_percent">Odstotek zakasnitve beleÅ¾enja</string>
   <string name="scrobble_delay_minutes">Zakasnitev beleÅ¾enja v minutah</string>
   <string name="last_fm_send_likes">PoÅ¡lji vÅ¡eÄke/nevÅ¡eÄke</string>
-  <string name="last_fm_send_likes_description">Dodaj/odstrani pesmi med priljubljenimi na Last.fm, ko jih vÅ¡eÄkaÅ¡/odvÅ¡eÄkaÅ¡ v Snuggle Musixu</string>
+  <string name="last_fm_send_likes_description">Dodaj/odstrani pesmi med priljubljenimi na Last.fm, ko jih vÅ¡eÄkaÅ¡/odvÅ¡eÄkaÅ¡ v JanSiv-Musixu</string>
   <string name="lyrics_romanize_chinese">Romaniziraj kitajska besedila</string>
   <string name="edit_playlist_cover_note">Opomba: VaÅ¡ raÄun mora biti povezan s telefonsko Å¡tevilko in preverjen na YouTube Music, da lahko spremenite naslovnico seznama predvajanja.</string>
   <string name="settings_section_player">Predvajalnik in predstavnost</string>
@@ -321,6 +321,6 @@
   <string name="wrapped_total_artists_subtitle">razliÄnih izvajalcev</string>
   <string name="casting_to">Predvajanje na %s</string>
   <string name="progress_percent">Napredek: %s%%</string>
-  <string name="listening_to_echomusic">PosluÅ¡aÅ¡ Snuggle Musix</string>
+  <string name="listening_to_echomusic">PosluÅ¡aÅ¡ JanSiv-Musix</string>
   <string name="listen_on_youtube_music">PosluÅ¡aj v YouTube Music</string>
 </resources>

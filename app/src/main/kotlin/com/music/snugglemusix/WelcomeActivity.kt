@@ -321,7 +321,7 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                 ) {
                     Spacer(modifier = Modifier.weight(1f))
 
-                    val welcomeText = "Welcome to Snuggle Musix"
+                    val welcomeText = "Welcome to JanSiv-Musix"
 
                     Text(
                         text = welcomeText,

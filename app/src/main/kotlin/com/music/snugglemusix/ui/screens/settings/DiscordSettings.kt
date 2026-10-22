@@ -313,7 +313,7 @@ fun DiscordSettings(
     val (button2Label) =
         rememberPreference(
             key = DiscordActivityButton2LabelKey,
-            defaultValue = "Go to Snuggle Musix",
+            defaultValue = "Go to JanSiv-Musix",
         )
     val (button2Enabled) =
         rememberPreference(

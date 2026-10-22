@@ -30,7 +30,7 @@
     <string name="most_played_artists">Najhranejší interpreti</string>
     <string name="most_played_albums">Najprehrávanejšie albumy</string>
     <string name="search">Hľadať</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Hľadať v knižnici…</string>
     <string name="filter_library">Knižnica</string>
     <string name="filter_liked">Obľúbené</string>
@@ -374,7 +374,7 @@
 
 
     <string name="spotify_import_title">Importovať zo Spotify</string>
-    <string name="spotify_import_desc">Pripojte Spotify, vyberte playlisty a zrkadlite ich do miestnych playlistov Snuggle Musix.</string>
+    <string name="spotify_import_desc">Pripojte Spotify, vyberte playlisty a zrkadlite ich do miestnych playlistov JanSiv-Musix.</string>
     <string name="spotify_connect">Pripojiť Spotify</string>
     <string name="spotify_refresh">Obnoviť knižnicu Spotify</string>
     <string name="spotify_select_sources">Vybrať playlisty Spotify</string>

@@ -139,7 +139,7 @@ private fun WelcomeAppCard() {
             )
             Spacer(Modifier.height(4.dp))
             Text(
-                text = "Snuggle Musix",
+                text = "JanSiv-Musix",
                 style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onSurface,

@@ -85,7 +85,7 @@
     <string name="undo">Vrati</string>
     <string name="artists">Umjetnici</string>
     <string name="playlists">Spisci za reprodukciju</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="from_your_library">Iz vaše biblioteke</string>
     <string name="stats">Statistike</string>
     <string name="mood_and_genres">Raspoloženje i Žanrovi</string>
@@ -363,7 +363,7 @@
 
 
     <string name="spotify_import_title">Uvezi sa Spotifyja</string>
-    <string name="spotify_import_desc">Povežite Spotify, odaberite spiskove i preslikajte ih u lokalne Snuggle Musix spiskove.</string>
+    <string name="spotify_import_desc">Povežite Spotify, odaberite spiskove i preslikajte ih u lokalne JanSiv-Musix spiskove.</string>
     <string name="spotify_connect">Poveži Spotify</string>
     <string name="spotify_refresh">Osvježi Spotify biblioteku</string>
     <string name="spotify_select_sources">Odaberite Spotify spiskove</string>

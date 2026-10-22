@@ -12,7 +12,7 @@
     <string name="yesterday">Eile</string>
     <string name="most_played_songs">Kõige rohkem esitatud lood</string>
     <string name="most_played_artists">Kõige rohkem esitatud esinejad</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Otsi muusikakogust…</string>
     <string name="filter_library">Muusikakogu</string>
     <string name="filter_liked">Meeldivaks märgitud</string>
@@ -353,7 +353,7 @@
 
 
     <string name="spotify_import_title">Impordi Spotify-st</string>
-    <string name="spotify_import_desc">Ühenda Spotify, vali esitusloendid ja peegelda need kohalikesse Snuggle Musix esitusloenditesse.</string>
+    <string name="spotify_import_desc">Ühenda Spotify, vali esitusloendid ja peegelda need kohalikesse JanSiv-Musix esitusloenditesse.</string>
     <string name="spotify_connect">Ühenda Spotify</string>
     <string name="spotify_refresh">Värskenda Spotify muusikakogu</string>
     <string name="spotify_select_sources">Vali Spotify esitusloendid</string>

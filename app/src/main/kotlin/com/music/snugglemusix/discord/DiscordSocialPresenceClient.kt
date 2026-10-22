@@ -1,4 +1,4 @@
-﻿
+
 
 package com.music.echo.discord
 
@@ -111,7 +111,7 @@ object DiscordSocialPresenceClient {
 
         val activityJson = JSONObject()
 
-        activityJson.put("name", activity.name ?: "Snuggle Musix")
+        activityJson.put("name", activity.name ?: "JanSiv-Musix")
         activityJson.put("type", activity.type.nativeValue)
 
         activity.details?.let { activityJson.put("details", it) }

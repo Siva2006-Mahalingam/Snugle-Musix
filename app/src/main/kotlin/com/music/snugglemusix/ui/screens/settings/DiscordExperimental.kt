@@ -54,7 +54,7 @@ fun DiscordExperimental(navController: NavController) {
     val (button2Label, onButton2LabelChange) =
         rememberPreference(
             key = DiscordActivityButton2LabelKey,
-            defaultValue = "Go to Snuggle Musix",
+            defaultValue = "Go to JanSiv-Musix",
         )
     val (button2Enabled, onButton2EnabledChange) =
         rememberPreference(

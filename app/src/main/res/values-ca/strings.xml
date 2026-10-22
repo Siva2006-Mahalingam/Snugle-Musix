@@ -24,7 +24,7 @@
     <string name="most_played_songs">Cançons més reproduïdes</string>
     <string name="most_played_artists">Artistes més reproduïts</string>
     <string name="most_played_albums">Àlbums més reproduïts</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Cerca a la col·lecció…</string>
     <string name="filter_liked">M’ha agradat</string>
     <string name="filter_downloaded">Descarregat</string>
@@ -363,7 +363,7 @@
 
 
     <string name="spotify_import_title">Importa des de Spotify</string>
-    <string name="spotify_import_desc">Connecteu Spotify, trieu llistes de reproducció i copieu-les a les llistes locals d’Snuggle Musix.</string>
+    <string name="spotify_import_desc">Connecteu Spotify, trieu llistes de reproducció i copieu-les a les llistes locals d’JanSiv-Musix.</string>
     <string name="spotify_connect">Connecta Spotify</string>
     <string name="spotify_refresh">Actualitza la col·lecció de Spotify</string>
     <string name="spotify_select_sources">Selecciona les llistes de Spotify</string>

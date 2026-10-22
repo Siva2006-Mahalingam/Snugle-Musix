@@ -23,7 +23,7 @@
     <string name="most_played_artists">Artis yang paling sering diputar</string>
     <string name="most_played_albums">Album yang paling sering diputar</string>
     <string name="search">Mencari</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">Cari di pustaka…</string>
     <string name="filter_library">Pustaka</string>
     <string name="filter_liked">Disukai</string>
@@ -343,7 +343,7 @@
 
 
     <string name="spotify_import_title">Impor dari Spotify</string>
-    <string name="spotify_import_desc">Hubungkan Spotify, pilih daftar putar, dan cerminkan ke dalam daftar putar Snuggle Musix lokal.</string>
+    <string name="spotify_import_desc">Hubungkan Spotify, pilih daftar putar, dan cerminkan ke dalam daftar putar JanSiv-Musix lokal.</string>
     <string name="spotify_connect">Hubungkan Spotify</string>
     <string name="spotify_refresh">Segarkan pustaka Spotify</string>
     <string name="spotify_select_sources">Pilih daftar putar Spotify</string>

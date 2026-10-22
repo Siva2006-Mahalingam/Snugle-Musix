@@ -22,7 +22,7 @@
     <string name="yesterday">Ontem</string>
     <string name="most_played_albums">Álbuns mais reproduzidos</string>
     <string name="search">Pesquisar</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="filter_liked">Gosto</string>
     <string name="filter_downloaded">Transferidas</string>
     <string name="filter_all">Tudo</string>
@@ -363,7 +363,7 @@
 
 
     <string name="spotify_import_title">Importar do Spotify</string>
-    <string name="spotify_import_desc">Ligue o Spotify, escolha listas de reprodução e espelhe-as em listas de reprodução locais Snuggle Musix.</string>
+    <string name="spotify_import_desc">Ligue o Spotify, escolha listas de reprodução e espelhe-as em listas de reprodução locais JanSiv-Musix.</string>
     <string name="spotify_connect">Ligar Spotify</string>
     <string name="spotify_refresh">Atualizar biblioteca do Spotify</string>
     <string name="spotify_select_sources">Selecionar listas de reprodução do Spotify</string>

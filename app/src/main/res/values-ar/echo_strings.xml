@@ -234,7 +234,7 @@
   <string name="scrobble_delay_percent">Ù†Ø³Ø¨Ø© ØªØ£Ø®ÙŠØ± Ø³ÙƒØ±Ø§Ø¨Ù„</string>
   <string name="scrobble_delay_minutes">Ø¯Ù‚Ø§Ø¦Ù‚ ØªØ£Ø®ÙŠØ± Ø³ÙƒØ±Ø§Ø¨Ù„</string>
   <string name="swipe_song_to_remove">Ù…Ø±Ø± Ø§Ù„Ø£ØºÙ†ÙŠØ© Ù„Ø¥Ø²Ø§Ù„ØªÙ‡Ø§ Ù…Ù† Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ØªØ´ØºÙŠÙ„</string>
-  <string name="last_fm_send_likes_description">Ø¹Ù†Ø¯Ù…Ø§ ØªØ¹Ø¬Ø¨Ùƒ Ø£ØºÙ†ÙŠØ© Ø£Ùˆ ØªÙ„ØºÙŠ Ø¥Ø¹Ø¬Ø§Ø¨Ùƒ Ø¨Ù‡Ø§ ÙÙŠ Snuggle Musix Ø³ÙŠØªÙ… ØªÙ„Ù‚Ø§Ø¦ÙŠÙ‹Ø§ ÙˆØ¶Ø¹ Ø¹Ù„Ø§Ù…Ø© (Ø£Ø­Ø¨Ø¨Øª) Ø£Ùˆ (ØºÙŠØ± Ù…Ø­Ø¨ÙˆØ¨) Ø¹Ù„Ù‰ Ù†ÙØ³ Ø§Ù„Ø£ØºÙ†ÙŠØ© ÙÙŠ Last.fm</string>
+  <string name="last_fm_send_likes_description">Ø¹Ù†Ø¯Ù…Ø§ ØªØ¹Ø¬Ø¨Ùƒ Ø£ØºÙ†ÙŠØ© Ø£Ùˆ ØªÙ„ØºÙŠ Ø¥Ø¹Ø¬Ø§Ø¨Ùƒ Ø¨Ù‡Ø§ ÙÙŠ JanSiv-Musix Ø³ÙŠØªÙ… ØªÙ„Ù‚Ø§Ø¦ÙŠÙ‹Ø§ ÙˆØ¶Ø¹ Ø¹Ù„Ø§Ù…Ø© (Ø£Ø­Ø¨Ø¨Øª) Ø£Ùˆ (ØºÙŠØ± Ù…Ø­Ø¨ÙˆØ¨) Ø¹Ù„Ù‰ Ù†ÙØ³ Ø§Ù„Ø£ØºÙ†ÙŠØ© ÙÙŠ Last.fm</string>
   <string name="last_fm_send_likes">Ø¥Ø±Ø³Ø§Ù„ Ø§Ù„Ø¥Ø¹Ø¬Ø§Ø¨Ø§Øª/Ø¥Ù„ØºØ§Ø¡ Ø§Ù„Ø¥Ø¹Ø¬Ø§Ø¨Ø§Øª</string>
   <string name="lyrics_romanize_chinese">ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø£ØºØ§Ù†ÙŠ Ø§Ù„ØµÙŠÙ†ÙŠØ© Ø¨Ø§Ù„Ø­Ø±ÙˆÙ Ø§Ù„Ù„Ø§ØªÙŠÙ†ÙŠØ©</string>
   <string name="hide_video_songs">Ø¥Ø®ÙØ§Ø¡ Ø£ØºØ§Ù†ÙŠ Ø§Ù„ÙÙŠØ¯ÙŠÙˆ</string>
@@ -322,7 +322,7 @@
   <string name="wrapped_top_artist_listening_time">Ù„Ù‚Ø¯ Ø§Ø³ØªÙ…Ø¹Øª Ø¥Ù„ÙŠÙ‡Ù… Ù„Ù…Ø¯Ø© %d Ø¯Ù‚ÙŠÙ‚Ø©</string>
   <string name="wrapped_top_song_title">Ø£ØºÙ†ÙŠØªÙƒ Ø§Ù„Ø£ÙƒØ«Ø± Ø§Ø³ØªÙ…Ø§Ø¹Ø§Ù‹ Ù‡ÙŠ</string>
   <string name="wrapped_top_song_listening_time">Ù„Ù‚Ø¯ Ø§Ø³ØªÙ…Ø¹Øª Ù„Ù…Ø¯Ø© %d Ø¯Ù‚ÙŠÙ‚Ø©</string>
-  <string name="wrapped_intro_title">Snuggle Musix</string>
+  <string name="wrapped_intro_title">JanSiv-Musix</string>
   <string name="wrapped_playlist_title">Ù…Ù„Ø®ØµÙƒ Ø§Ù„Ø³Ù†ÙˆÙŠ Ù„Ù€ %s</string>
   <string name="wrapped_create_playlist">Ø¥Ù†Ø´Ø§Ø¡ Ù‚Ø§Ø¦Ù…Ø© ØªØ´ØºÙŠÙ„</string>
   <string name="wrapped_playlist_saved">ØªÙ… Ø­ÙØ¸ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ØªØ´ØºÙŠÙ„</string>
@@ -330,7 +330,7 @@
   <string name="progress_percent">Ø§Ù„ØªÙ‚Ø¯Ù… %s%%</string>
   <string name="listening_to_echomusic">Ø§Ù„Ø§Ø³ØªÙ…Ø§Ø¹ Ø¥Ù„Ù‰ Ù…ØªØ±ÙˆÙ„ÙŠØ³Øª</string>
   <string name="listen_on_youtube_music">Ø§Ø³ØªÙ…Ø¹ Ø¹Ø¨Ø± ÙŠÙˆØªÙŠÙˆØ¨ Ù…ÙŠÙˆØ²Ùƒ</string>
-  <string name="visit_echomusic">Ù‚Ù… Ø¨Ø²ÙŠØ§Ø±Ø© Snuggle Musix</string>
+  <string name="visit_echomusic">Ù‚Ù… Ø¨Ø²ÙŠØ§Ø±Ø© JanSiv-Musix</string>
   <string name="open">ÙØªØ­</string>
   <string name="failed_to_create_image">ÙØ´Ù„ Ø¥Ù†Ø´Ø§Ø¡ Ø§Ù„ØµÙˆØ±Ø©: %s</string>
   <string name="failed_to_parse_proxy">ÙØ´Ù„ ØªØ­Ù„ÙŠÙ„ Ø¹Ù†ÙˆØ§Ù† URL Ù„Ù„ÙˆÙƒÙŠÙ„.</string>
@@ -485,7 +485,7 @@
   <string name="crash_description">Ø­Ø¯Ø« Ø®Ø·Ø£ ØºÙŠØ± Ù…ØªÙˆÙ‚Ø¹ ÙŠØ±Ø¬Ù‰ Ù…Ø´Ø§Ø±ÙƒØ© ØªÙ‚Ø±ÙŠØ± Ø§Ù„Ø¹Ø·Ù„ Ù„Ù…Ø³Ø§Ø¹Ø¯ØªÙ†Ø§ ÙÙŠ Ø­Ù„ Ø§Ù„Ù…Ø´ÙƒÙ„Ø©.</string>
   <string name="crash_share_logs">Ù…Ø´Ø§Ø±ÙƒØ© Ø§Ù„Ø³Ø¬Ù„Ø§Øª</string>
   <string name="crash_share_title">Ù…Ø´Ø§Ø±ÙƒØ© ØªÙ‚Ø±ÙŠØ± Ø§Ù„ØªØ¹Ø·Ù„</string>
-  <string name="crash_report_subject">ØªÙ‚Ø±ÙŠØ± ØªØ¹Ø·Ù„ ØªØ·Ø¨ÙŠÙ‚ Snuggle Musix</string>
+  <string name="crash_report_subject">ØªÙ‚Ø±ÙŠØ± ØªØ¹Ø·Ù„ ØªØ·Ø¨ÙŠÙ‚ JanSiv-Musix</string>
   <string name="crash_close">Ø¥ØºÙ„Ø§Ù‚</string>
   <string name="crash_no_log">Ù„Ø§ ÙŠÙˆØ¬Ø¯ Ø³Ø¬Ù„ Ø£Ø¹Ø·Ø§Ù„ Ù…ØªØ§Ø­</string>
   <string name="palette_dynamic">Ø¯ÙŠÙ†Ø§Ù…ÙŠÙƒÙŠ</string>
@@ -515,7 +515,7 @@
   <string name="cd_system_mode">ÙˆØ¶Ø¹ Ø§Ù„Ù†Ø¸Ø§Ù…</string>
   <string name="cd_palette_item">Ù„ÙˆØ­Ø© Ø£Ù„ÙˆØ§Ù† %1$s</string>
   <string name="not_playing">Ù„Ø§ ÙŠØªÙ… ØªØ´ØºÙŠÙ„ Ø£ÙŠ Ø£ØºÙ†ÙŠØ©</string>
-  <string name="tap_to_play">Ø§Ø¶ØºØ· Ù„ÙØªØ­ Snuggle Musix</string>
+  <string name="tap_to_play">Ø§Ø¶ØºØ· Ù„ÙØªØ­ JanSiv-Musix</string>
   <string name="widget_music_player">Ù…Ø´ØºÙ„ Ù…ÙˆØ³ÙŠÙ‚Ù‰</string>
   <string name="widget_turntable">Ø§Ù„Ù‚Ø±Øµ Ø§Ù„Ø¯ÙˆØ§Ø±</string>
   <string name="listen_together_choose_server">Ø§Ø®ØªØ± Ø®Ø§Ø¯Ù…Ù‹Ø§</string>
@@ -583,7 +583,7 @@
   <string name="recently_converted">ØªÙ… ØªØ­ÙˆÙŠÙ„Ù‡ Ù…Ø¤Ø®Ø±Ù‹Ø§</string>
   <string name="csv_import_failed">ÙØ´Ù„ Ø§Ø³ØªÙŠØ±Ø§Ø¯ Ù…Ù„Ù CSV</string>
   <string name="importing_csv">Ø§Ø³ØªÙŠØ±Ø§Ø¯ Ù…Ù„Ù CSV</string>
-  <string name="play_on_app">ØªØ´ØºÙŠÙ„ Ø¹Ù„Ù‰ Snuggle Musix</string>
+  <string name="play_on_app">ØªØ´ØºÙŠÙ„ Ø¹Ù„Ù‰ JanSiv-Musix</string>
   <string name="listening">Ø§Ù„Ø§Ø³ØªÙ…Ø§Ø¹â€¦</string>
   <string name="ai_api_key_required">Ù…ÙØªØ§Ø­ API Ù…Ø·Ù„ÙˆØ¨</string>
   <string name="ai_error_unexpected">Ù†ØªÙŠØ¬Ø© ØªØ±Ø¬Ù…Ø© ØºÙŠØ± Ù…ØªÙˆÙ‚Ø¹Ø©</string>
@@ -647,9 +647,9 @@
   <string name="discord_rpc_preview">Ù…Ø¹Ø§ÙŠÙ†Ø© Ø§Ù„Ø­Ø§Ù„Ø© Ø§Ù„ØºÙ†ÙŠØ©</string>
   <string name="discord_presence">Ø§Ù„ØªÙˆØ§Ø¬Ø¯</string>
   <string name="discord_connect_description">Ø³Ø¬Ù‘Ù„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Discord Ù„Ù„Ù…Ø´Ø§Ø±ÙƒØ© Ù…Ø§ ØªØ³ØªÙ…Ø¹ Ø¥Ù„ÙŠÙ‡</string>
-  <string name="discord_playing_echomusic">ØªØ´ØºÙŠÙ„ Snuggle Musix</string>
-  <string name="discord_watching_echomusic">Ù…Ø´Ø§Ù‡Ø¯Ø© Snuggle Musix</string>
-  <string name="discord_competing_echomusic">Ø§Ù„ØªÙ†Ø§ÙØ³ ÙÙŠ Snuggle Musix</string>
+  <string name="discord_playing_echomusic">ØªØ´ØºÙŠÙ„ JanSiv-Musix</string>
+  <string name="discord_watching_echomusic">Ù…Ø´Ø§Ù‡Ø¯Ø© JanSiv-Musix</string>
+  <string name="discord_competing_echomusic">Ø§Ù„ØªÙ†Ø§ÙØ³ ÙÙŠ JanSiv-Musix</string>
   <string name="discord_activity_name">Ø§Ø³Ù… Ø§Ù„Ù†Ø´Ø§Ø·</string>
   <string name="discord_activity_name_description">Ø§Ø³Ù… Ù…Ø®ØµØµ Ù„Ù„Ù†Ø´Ø§Ø· (Ø§ØªØ±ÙƒÙ‡ ÙØ§Ø±ØºÙ‹Ø§ Ù„Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠ)</string>
   <string name="discord_advanced_mode">Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„Ù…ØªÙ‚Ø¯Ù…</string>

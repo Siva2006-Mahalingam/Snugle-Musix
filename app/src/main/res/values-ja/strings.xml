@@ -27,7 +27,7 @@
     <string name="most_played_artists">最も聴いたアーティスト</string>
     <string name="most_played_albums">最も聴いたアルバム</string>
     <string name="search">検索</string>
-    <string name="search_yt_music">Search in Snuggle Musix…</string>
+    <string name="search_yt_music">Search in JanSiv-Musix…</string>
     <string name="search_library">ライブラリを検索…</string>
     <string name="filter_library">ライブラリ</string>
     <string name="filter_liked">いいね済み</string>
@@ -346,7 +346,7 @@
 
 
     <string name="spotify_import_title">Spotifyからインポート</string>
-    <string name="spotify_import_desc">Spotifyに接続し、プレイリストを選択して、ローカルのSnuggle Musixプレイリストにミラーリングします。</string>
+    <string name="spotify_import_desc">Spotifyに接続し、プレイリストを選択して、ローカルのJanSiv-Musixプレイリストにミラーリングします。</string>
     <string name="spotify_connect">Spotifyに接続</string>
     <string name="spotify_refresh">Spotifyライブラリを更新</string>
     <string name="spotify_select_sources">Spotifyプレイリストを選択</string>

@@ -1,4 +1,4 @@
-﻿
+
 
 package com.music.echo.discord
 
@@ -313,9 +313,9 @@ class GatewayClient {
         d.put("token", token)
         val properties = JSONObject()
         properties.put("os", "Android")
-        properties.put("browser", "Snuggle Musix")
+        properties.put("browser", "JanSiv-Musix")
         properties.put("device", "Android")
-        properties.put("browser_user_agent", "Snuggle Musix")
+        properties.put("browser_user_agent", "JanSiv-Musix")
         properties.put("browser_version", "1.0")
         properties.put("client_version", "1.0")
         properties.put("client_build_number", 1)

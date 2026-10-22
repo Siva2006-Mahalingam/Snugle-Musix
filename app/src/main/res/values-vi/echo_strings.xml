@@ -241,7 +241,7 @@
   <string name="show_artist_description">Hiá»ƒn thá»‹ mÃ´ táº£ nghá»‡ sÄ©</string>
   <string name="show_artist_subscriber_count">Hiá»‡n sá»‘ lÆ°á»£ng ngÆ°á»i Ä‘Äƒng kÃ½</string>
   <string name="show_artist_monthly_listeners">Hiá»ƒn thá»‹ sá»‘ lÆ°á»£t nghe háº±ng thÃ¡ng</string>
-  <string name="wrapped_logo_content_description">Snuggle Musix Logo</string>
+  <string name="wrapped_logo_content_description">JanSiv-Musix Logo</string>
   <string name="wrapped_year">2025</string>
   <string name="listen_together_join_room">Tham gia phÃ²ng</string>
   <string name="listen_together_create_room_desc">Táº¡o phÃ²ng vÃ  chia sáº½ mÃ£ cho báº¡n bÃ¨</string>
@@ -271,7 +271,7 @@
   <string name="error_copy_hint">Sao chÃ©p thÃ´ng tin lá»—i Ä‘á»ƒ giÃºp nhÃ  phÃ¡t triá»ƒn gá»¡ lá»—i</string>
   <string name="album_art">CÃ i Ä‘áº·t widget</string>
   <string name="no_song_playing">KhÃ´ng cÃ³ bÃ i hÃ¡t Ä‘ang phÃ¡t</string>
-  <string name="tap_to_open">Cháº¡m Ä‘á»ƒ má»Ÿ Snuggle Musix</string>
+  <string name="tap_to_open">Cháº¡m Ä‘á»ƒ má»Ÿ JanSiv-Musix</string>
   <string name="previous">BÃ i trÆ°á»›c</string>
   <string name="play_pause">PhÃ¡t/Táº¡m dá»«ng</string>
   <string name="next">BÃ i tiáº¿p</string>
@@ -351,7 +351,7 @@
   <string name="crash_description">ÄÃ£ xáº£y ra lá»—i khÃ´ng mong muá»‘n. Vui lÃ²ng chia sáº» bÃ¡o cÃ¡o sá»± cá»‘ Ä‘á»ƒ giÃºp chÃºng tÃ´i kháº¯c phá»¥c lá»—i.</string>
   <string name="crash_share_logs">Chia sáº» nháº­t kÃ½</string>
   <string name="crash_share_title">Chia sáº» bÃ¡o cÃ¡o sá»± cá»‘</string>
-  <string name="crash_report_subject">BÃ¡o cÃ¡o sá»± cá»‘ Snuggle Musix</string>
+  <string name="crash_report_subject">BÃ¡o cÃ¡o sá»± cá»‘ JanSiv-Musix</string>
   <string name="crash_close">ÄÃ³ng</string>
   <string name="crash_no_log">KhÃ´ng cÃ³ nháº­t kÃ½ sá»± cá»‘</string>
   <string name="palette_crimson">Äá» tháº«m</string>
@@ -388,7 +388,7 @@
   <string name="remember_shuffle_and_repeat_desc">Nhá»› cháº¿ Ä‘á»™ ngáº«u nhiÃªn &amp; láº·p khi má»Ÿ láº¡i á»©ng dá»¥ng</string>
   <string name="pause_music_when_media_is_muted">Táº¡m dá»«ng nháº¡c khi táº¯t tiáº¿ng media</string>
   <string name="keep_screen_on_when_player_is_expanded">Giá»¯ mÃ n hÃ¬nh báº­t khi má»Ÿ trÃ¬nh phÃ¡t</string>
-  <string name="last_fm_send_likes_description">ÄÃ¡nh dáº¥u yÃªu thÃ­ch/bá» yÃªu thÃ­ch bÃ i hÃ¡t trÃªn Last.fm khi chÃºng Ä‘Æ°á»£c thÃ­ch/bá» thÃ­ch trong Snuggle Musix</string>
+  <string name="last_fm_send_likes_description">ÄÃ¡nh dáº¥u yÃªu thÃ­ch/bá» yÃªu thÃ­ch bÃ i hÃ¡t trÃªn Last.fm khi chÃºng Ä‘Æ°á»£c thÃ­ch/bá» thÃ­ch trong JanSiv-Musix</string>
   <string name="logging_in">Äang Ä‘Äƒng nháº­pâ€¦</string>
   <string name="hide_video_songs">áº¨n bÃ i hÃ¡t video</string>
   <string name="details_desc">Xem thÃ´ng tin bÃ i hÃ¡t</string>
