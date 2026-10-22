@@ -1225,7 +1225,7 @@ fun RichPresence(
     button1Enabled: Boolean = true,
     button1UrlSource: String = "songurl",
     button1CustomUrl: String = "",
-    button2Label: String = "Go to Snuggle Musix",
+    button2Label: String = "Go to JanSiv-Musix",
     button2Enabled: Boolean = true,
     button2UrlSource: String = "custom",
     button2CustomUrl: String = "https://github.com/Siva2006-Mahalingam/Snugle-Musix",

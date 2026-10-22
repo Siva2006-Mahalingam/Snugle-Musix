@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/Snuggle-new.png" alt="Snuggle Musix Logo" width="100" />
+<img src="assets/Snuggle-new.png" alt="JanSiv-Musix Logo" width="100" />
 
-# Snuggle Musix
+# JanSiv-Musix
 
 ### A free, open-source music player for Android.
 
@@ -18,9 +18,9 @@ A modern music listening experience built around Material 3, personalisation, an
 
 ## Overview
 
-**Snuggle Musix** is a free, open-source music player for Android designed around a modern Material 3 experience. It combines clean visual design with rich audio playback capabilities, giving you full control over your listening experience with zero advertisements and zero invasive telemetry.
+**JanSiv-Musix** is a free, open-source music player for Android designed around a modern Material 3 experience. It combines clean visual design with rich audio playback capabilities, giving you full control over your listening experience with zero advertisements and zero invasive telemetry.
 
-Whether streaming your favorite tracks or playing local audio files, Snuggle Musix delivers high fidelity sound, real-time synchronized lyrics, and personalized themes that adapt to your device.
+Whether streaming your favorite tracks or playing local audio files, JanSiv-Musix delivers high fidelity sound, real-time synchronized lyrics, and personalized themes that adapt to your device.
 
 ---
 
@@ -34,9 +34,9 @@ Whether streaming your favorite tracks or playing local audio files, Snuggle Mus
       <td align="center"><b>Synced Lyrics</b></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Homepage.jpeg" width="230" alt="Snuggle Musix Home" /></td>
-      <td><img src="Screenshots/Music Player.jpeg" width="230" alt="Snuggle Musix Player" /></td>
-      <td><img src="Screenshots/Synchronized lyrics.jpeg" width="230" alt="Snuggle Musix Lyrics" /></td>
+      <td><img src="Screenshots/Homepage.jpeg" width="230" alt="JanSiv-Musix Home" /></td>
+      <td><img src="Screenshots/Music Player.jpeg" width="230" alt="JanSiv-Musix Player" /></td>
+      <td><img src="Screenshots/Synchronized lyrics.jpeg" width="230" alt="JanSiv-Musix Lyrics" /></td>
     </tr>
     <tr>
       <td align="center"><b>Search & Explore</b></td>
@@ -44,9 +44,9 @@ Whether streaming your favorite tracks or playing local audio files, Snuggle Mus
       <td align="center"><b>Song Recognition</b></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="Snuggle Musix Search" /></td>
-      <td><img src="Screenshots/Playlist & library.jpeg" width="230" alt="Snuggle Musix Library" /></td>
-      <td><img src="Screenshots/Song recognition.jpeg" width="230" alt="Snuggle Musix Song Recognition" /></td>
+      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="JanSiv-Musix Search" /></td>
+      <td><img src="Screenshots/Playlist & library.jpeg" width="230" alt="JanSiv-Musix Library" /></td>
+      <td><img src="Screenshots/Song recognition.jpeg" width="230" alt="JanSiv-Musix Song Recognition" /></td>
     </tr>
   </table>
 </div>
@@ -67,17 +67,17 @@ Whether streaming your favorite tracks or playing local audio files, Snuggle Mus
 
 ---
 
-## Why Snuggle Musix?
+## Why JanSiv-Musix?
 
-Snuggle Musix is built around a simple idea: music players should feel personal.
+JanSiv-Musix is built around a simple idea: music players should feel personal.
 
-Many modern music apps have become cluttered with unwanted social feeds, intrusive advertisements, and rigid interfaces. Snuggle Musix focuses on thoughtful interaction design, fluid performance, audio customization, and giving users true ownership of their music listening experience.
+Many modern music apps have become cluttered with unwanted social feeds, intrusive advertisements, and rigid interfaces. JanSiv-Musix focuses on thoughtful interaction design, fluid performance, audio customization, and giving users true ownership of their music listening experience.
 
 ---
 
 ## Tech Stack
 
-Snuggle Musix is built natively for Android using modern Android architecture components:
+JanSiv-Musix is built natively for Android using modern Android architecture components:
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) with Material 3 Design
@@ -94,7 +94,7 @@ Snuggle Musix is built natively for Android using modern Android architecture co
 
 The latest pre-built APK is available directly on GitHub Releases:
 
-📦 **[Download Snuggle Musix APK](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)**
+📦 **[Download JanSiv-Musix APK](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)**
 
 ---
 
@@ -132,4 +132,4 @@ Contributions, bug reports, and feature requests are welcome!
 
 ## License
 
-Snuggle Musix is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
+JanSiv-Musix is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).

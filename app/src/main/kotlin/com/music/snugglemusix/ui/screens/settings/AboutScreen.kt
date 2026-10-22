@@ -219,7 +219,7 @@ private fun AboutAppCard() {
             Spacer(Modifier.height(4.dp))
             
             Text(
-                text = if (rotation <= 90f) "Snuggle Musix" else "Developed by Siva",
+                text = if (rotation <= 90f) "JanSiv-Musix" else "Developed by Siva",
                 style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onSurface,
