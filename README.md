@@ -29,24 +29,24 @@ Whether streaming your favorite tracks or playing local audio files, JanSiv-Musi
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Home</b></td>
       <td align="center"><b>Now Playing</b></td>
       <td align="center"><b>Synced Lyrics</b></td>
+      <td align="center"><b>Search & Explore</b></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Homepage.jpeg" width="230" alt="JanSiv-Musix Home" /></td>
       <td><img src="Screenshots/Music Player.jpeg" width="230" alt="JanSiv-Musix Player" /></td>
       <td><img src="Screenshots/Synchronized lyrics.jpeg" width="230" alt="JanSiv-Musix Lyrics" /></td>
+      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="JanSiv-Musix Search" /></td>
     </tr>
     <tr>
-      <td align="center"><b>Search & Explore</b></td>
       <td align="center"><b>Library & Playlists</b></td>
       <td align="center"><b>Song Recognition</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="JanSiv-Musix Search" /></td>
       <td><img src="Screenshots/Playlist & library.jpeg" width="230" alt="JanSiv-Musix Library" /></td>
       <td><img src="Screenshots/Song recognition.jpeg" width="230" alt="JanSiv-Musix Song Recognition" /></td>
+      <td></td>
     </tr>
   </table>
 </div>
