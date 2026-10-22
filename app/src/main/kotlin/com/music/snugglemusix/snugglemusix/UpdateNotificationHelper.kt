@@ -32,9 +32,9 @@ object UpdateNotificationHelper {
 
         
         val apkUrl = if (versionName.contains("nightly", ignoreCase = true)) {
-            "https://github.com/prasanna172605/Snugle-Musix/releases/latest"
+            "https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest"
         } else {
-            "https://github.com/prasanna172605/Snugle-Musix/releases/download/$versionName/SnuggleMusix-${versionName.removePrefix("v")}-Universal.apk"
+            "https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/download/$versionName/SnuggleMusix-${versionName.removePrefix("v")}-Universal.apk"
         }
         val intent = Intent(Intent.ACTION_VIEW, apkUrl.toUri())
 

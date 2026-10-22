@@ -119,9 +119,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
-- **GitHub**: [https://github.com/prasanna172605/Snugle-Musix](https://github.com/prasanna172605/Snugle-Musix)
-- **Issues**: [https://github.com/prasanna172605/Snugle-Musix/issues](https://github.com/prasanna172605/Snugle-Musix/issues)
-- **Discussions**: [https://github.com/prasanna172605/Snugle-Musix/discussions](https://github.com/prasanna172605/Snugle-Musix/discussions)
+- **GitHub**: [https://github.com/Siva2006-Mahalingam/Snugle-Musix](https://github.com/Siva2006-Mahalingam/Snugle-Musix)
+- **Issues**: [https://github.com/Siva2006-Mahalingam/Snugle-Musix/issues](https://github.com/Siva2006-Mahalingam/Snugle-Musix/issues)
+- **Discussions**: [https://github.com/Siva2006-Mahalingam/Snugle-Musix/discussions](https://github.com/Siva2006-Mahalingam/Snugle-Musix/discussions)
 
 ## Data Protection Compliance
 

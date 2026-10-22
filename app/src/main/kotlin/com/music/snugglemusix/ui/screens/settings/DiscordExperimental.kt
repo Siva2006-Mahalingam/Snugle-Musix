@@ -1,4 +1,4 @@
-﻿package com.music.echo.ui.screens.settings
+package com.music.echo.ui.screens.settings
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -80,7 +80,7 @@ fun DiscordExperimental(navController: NavController) {
     val (button2CustomUrl, onButton2CustomUrlChange) =
         rememberPreference(
             key = DiscordActivityButton2CustomUrlKey,
-            defaultValue = "https://github.com/prasanna172605/Snugle-Musix",
+            defaultValue = "https://github.com/Siva2006-Mahalingam/Snugle-Musix",
         )
 
     Scaffold { inner ->

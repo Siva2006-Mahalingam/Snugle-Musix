@@ -1,4 +1,4 @@
-﻿package com.snuggle.music.snugglemusix.changelog
+package com.snuggle.music.snugglemusix.changelog
 
 
 
@@ -144,7 +144,7 @@ fun ChangelogScreen(
                         showingCached = true
                     }
                 } else {
-                    val changelogUrl = URL("https://github.com/prasanna172605/Snugle-Musix/releases/download/$tag/changelog.json")
+                    val changelogUrl = URL("https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/download/$tag/changelog.json")
                     val connection = changelogUrl.openConnection() as HttpURLConnection
                     connection.setRequestProperty("User-Agent", "echomusic-Changelog-App")
                     connection.setRequestProperty("Accept", "application/json")
@@ -217,7 +217,7 @@ fun ChangelogScreen(
         isFetchingOldReleases = true
         coroutineScope.launch(Dispatchers.IO) {
             try {
-                val releasesUrl = URL("https://api.github.com/repos/prasanna172605/Snugle-Musix/releases")
+                val releasesUrl = URL("https://api.github.com/repos/Siva2006-Mahalingam/Snugle-Musix/releases")
                 val connection = releasesUrl.openConnection() as HttpURLConnection
                 connection.setRequestProperty("User-Agent", "echomusic-Changelog-App")
                 connection.setRequestProperty("Accept", "application/vnd.github+json")

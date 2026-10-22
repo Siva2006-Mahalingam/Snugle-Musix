@@ -1,4 +1,4 @@
-﻿package com.snuggle.music.snugglemusix.commitscreen
+package com.snuggle.music.snugglemusix.commitscreen
 
 import android.content.Intent
 import android.net.Uri
@@ -105,7 +105,7 @@ fun CommitScreen(
         hasError = false
         coroutineScope.launch(Dispatchers.IO) {
             try {
-                val url = URL("https://api.github.com/repos/prasanna172605/Snugle-Musix/commits?branch=main&per_page=50")
+                val url = URL("https://api.github.com/repos/Siva2006-Mahalingam/Snugle-Musix/commits?branch=main&per_page=50")
                 val json = url.openStream().bufferedReader().use { it.readText() }
                 val array = JSONArray(json)
                 val outputFormatter = DateTimeFormatter.ofPattern("MMM d, yyyy", Locale.getDefault())

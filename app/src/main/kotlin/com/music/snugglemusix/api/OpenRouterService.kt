@@ -1,4 +1,4 @@
-﻿
+
 
 package com.snuggle.music.api
 
@@ -141,7 +141,7 @@ Output MUST be a JSON array with EXACTLY $lineCount strings."""
                         }
                     }
                     .addHeader("Content-Type", "application/json")
-                    .addHeader("HTTP-Referer", "https://github.com/prasanna172605/Snugle-Musix")
+                    .addHeader("HTTP-Referer", "https://github.com/Siva2006-Mahalingam/Snugle-Musix")
                     .addHeader("X-Title", "echomusic")
                     .post(jsonBody.toString().toRequestBody(JSON))
                     .build()

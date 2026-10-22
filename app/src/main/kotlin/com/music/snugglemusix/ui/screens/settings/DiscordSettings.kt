@@ -1,4 +1,4 @@
-﻿
+
 
 @file:OptIn(ExperimentalMaterial3ExpressiveApi::class)
 
@@ -338,7 +338,7 @@ fun DiscordSettings(
     val (button2CustomUrl) =
         rememberPreference(
             key = DiscordActivityButton2CustomUrlKey,
-            defaultValue = "https://github.com/prasanna172605/Snugle-Musix",
+            defaultValue = "https://github.com/Siva2006-Mahalingam/Snugle-Musix",
         )
 
     val (activityType, onActivityTypeChange) =
@@ -1228,7 +1228,7 @@ fun RichPresence(
     button2Label: String = "Go to Snuggle Musix",
     button2Enabled: Boolean = true,
     button2UrlSource: String = "custom",
-    button2CustomUrl: String = "https://github.com/prasanna172605/Snugle-Musix",
+    button2CustomUrl: String = "https://github.com/Siva2006-Mahalingam/Snugle-Musix",
     isPlaying: Boolean = false,
 ) {
     val context = LocalContext.current

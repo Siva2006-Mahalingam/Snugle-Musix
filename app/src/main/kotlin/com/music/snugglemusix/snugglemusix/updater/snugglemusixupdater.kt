@@ -343,7 +343,7 @@ fun UpdateScreen(navController: NavHostController) {
                                             }
                                         } else {
                                             val cleanVersion = currentStatus.version.removePrefix("v")
-                                            val urlToDownload = currentStatus.apkUrl ?: "https://github.com/prasanna172605/Snugle-Musix/releases/download/${currentStatus.version}/SnuggleMusix-${cleanVersion}-Universal.apk"
+                                            val urlToDownload = currentStatus.apkUrl ?: "https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/download/${currentStatus.version}/SnuggleMusix-${cleanVersion}-Universal.apk"
                                             
                                             val constraints = Constraints.Builder()
                                                 .setRequiredNetworkType(NetworkType.CONNECTED)
@@ -708,7 +708,7 @@ suspend fun checkForUpdate(
 ) {
     withContext(Dispatchers.IO) {
         try {
-            val url = URL("https://api.github.com/repos/prasanna172605/Snugle-Musix/releases/latest")
+            val url = URL("https://api.github.com/repos/Siva2006-Mahalingam/Snugle-Musix/releases/latest")
             val json = url.openStream().bufferedReader().use { it.readText() }
             val targetRelease = JSONObject(json)
             
@@ -726,7 +726,7 @@ suspend fun checkForUpdate(
                 var imageUrl: String? = null
                 try {
                     val changelogUrl =
-                        URL("https://github.com/prasanna172605/Snugle-Musix/releases/download/$tagWithPrefix/changelog.json")
+                        URL("https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/download/$tagWithPrefix/changelog.json")
                     val changelogJson = changelogUrl.openStream().bufferedReader().use { it.readText() }
                     val changelogData = JSONObject(changelogJson)
 

@@ -70,7 +70,7 @@ highlightKey: String? = null) {
 
     val canvasServices = remember {
         mutableStateListOf(
-            ServiceStatus("Snugle Canvas", { "https://prasanna0705.netlify.app/Snuggle-Musix" }),
+            ServiceStatus("Snugle Canvas", { "https://github.com/Siva2006-Mahalingam/Snugle-Musix" }),
             ServiceStatus("Tidal Canvas", { "https://api.tidal.com/v1/" })
         )
     }

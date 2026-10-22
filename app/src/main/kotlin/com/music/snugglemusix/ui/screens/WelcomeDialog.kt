@@ -66,47 +66,19 @@ fun WelcomeDialog(
                 // Main Header
                 WelcomeAppCard()
 
-                WelcomeSectionCard(title = "Follow Developer") {
-                    WelcomeActionRow(
-                        icon = painterResource(R.drawable.ic_instagram_new),
-                        title = "Instagram",
-                        subtitle = "@__prasannaaah__",
-                        onClick = { uriHandler.openUri("https://www.instagram.com/__prasannaaah__/?__pwa=1") }
-                    )
-                    WelcomeDivider()
-                    WelcomeActionRow(
-                        icon = painterResource(R.drawable.website),
-                        title = "LinkedIn",
-                        subtitle = "prasanna-iyappan",
-                        onClick = { uriHandler.openUri("https://www.linkedin.com/in/prasanna-iyappan-b728042a3/") }
-                    )
-                    WelcomeDivider()
+                WelcomeSectionCard(title = "Developer") {
                     WelcomeActionRow(
                         icon = painterResource(R.drawable.github),
                         title = "GitHub",
-                        subtitle = "prasanna172605",
-                        onClick = { uriHandler.openUri("https://github.com/prasanna172605") }
-                    )
-                    WelcomeDivider()
-                    WelcomeActionRow(
-                        icon = painterResource(R.drawable.website),
-                        title = "Portfolio",
-                        subtitle = "aberrant-portfolio-2026.web.app",
-                        onClick = { uriHandler.openUri("https://aberrant-portfolio-2026.web.app/") }
-                    )
-                    WelcomeDivider()
-                    WelcomeActionRow(
-                        icon = painterResource(R.drawable.website),
-                        title = "Website",
-                        subtitle = "prasanna0705.netlify.app",
-                        onClick = { uriHandler.openUri("https://prasanna0705.netlify.app/Snuggle-Musix") }
+                        subtitle = "Siva2006-Mahalingam",
+                        onClick = { uriHandler.openUri("https://github.com/Siva2006-Mahalingam") }
                     )
                 }
 
                 Spacer(modifier = Modifier.height(4.dp))
 
                 Button(
-                    onClick = { uriHandler.openUri("https://github.com/prasanna172605/Snugle-Musix") },
+                    onClick = { uriHandler.openUri("https://github.com/Siva2006-Mahalingam/Snugle-Musix") },
                     modifier = Modifier.fillMaxWidth().height(50.dp),
                     shape = RoundedCornerShape(16.dp),
                     colors = ButtonDefaults.buttonColors(

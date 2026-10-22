@@ -593,7 +593,7 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                             iconTint = Color(0xFF8d6e00),
                             title = "Star on GitHub",
                             description = "Help us reach more people by starring our repository.",
-                            shape = topCardShape,
+                            shape = RoundedCornerShape(20.dp),
                             control = {
                                 Icon(
                                     imageVector = Icons.Rounded.ChevronRight,
@@ -602,49 +602,7 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                                 )
                             },
                             onClick = {
-                                uriHandler.safeOpenUri(context, "https://github.com/prasanna172605/Snugle-Musix")
-                            }
-                        )
-
-                        Spacer(modifier = Modifier.height(2.dp))
-
-                        PermissionCard(
-                            icon = painterResource(com.snuggle.music.R.drawable.ic_instagram_new),
-                            iconColor = Color(0xFFffb4ab),
-                            iconTint = Color(0xFF690005),
-                            title = "Follow on Instagram",
-                            description = "Stay updated with the latest news from the developer.",
-                            shape = middleCardShape,
-                            control = {
-                                Icon(
-                                    imageVector = Icons.Rounded.ChevronRight,
-                                    contentDescription = null,
-                                    tint = MaterialTheme.colorScheme.onSurfaceVariant
-                                )
-                            },
-                            onClick = {
-                                uriHandler.safeOpenUri(context, "https://www.instagram.com/__prasannaaah__/?__pwa=1")
-                            }
-                        )
-
-                        Spacer(modifier = Modifier.height(2.dp))
-
-                        PermissionCard(
-                            icon = painterResource(com.snuggle.music.R.drawable.website),
-                            iconColor = Color(0xFF67d4ff),
-                            iconTint = Color(0xFF004e5d),
-                            title = "Developer Website",
-                            description = "Visit the developer's portfolio and other projects.",
-                            shape = bottomCardShape,
-                            control = {
-                                Icon(
-                                    imageVector = Icons.Rounded.ChevronRight,
-                                    contentDescription = null,
-                                    tint = MaterialTheme.colorScheme.onSurfaceVariant
-                                )
-                            },
-                            onClick = {
-                                uriHandler.safeOpenUri(context, "https://prasanna0705.netlify.app/Snuggle-Musix")
+                                uriHandler.safeOpenUri(context, "https://github.com/Siva2006-Mahalingam/Snugle-Musix")
                             }
                         )
 

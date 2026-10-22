@@ -14,7 +14,7 @@ This document provides instructions for setting up the Snuggle Musix project for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prasanna172605/Snugle-Musix.git
+git clone https://github.com/Siva2006-Mahalingam/Snugle-Musix.git
 cd Snugle-Musix
 ```
 

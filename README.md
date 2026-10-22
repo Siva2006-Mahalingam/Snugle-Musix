@@ -8,8 +8,8 @@
 
 A modern music listening experience built around Material 3, personalisation, and powerful playback features.
 
-[![Website](https://img.shields.io/badge/Website-prasanna0705.netlify.app-FF3366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prasanna0705.netlify.app/Snuggle-Musix)
-[![Latest Release](https://img.shields.io/github/v/release/prasanna172605/Snugle-Musix?style=for-the-badge&color=8c52ff&logo=github)](https://github.com/prasanna172605/Snugle-Musix/releases/latest)
+[![Author](https://img.shields.io/badge/Author-Siva%20Mahalingam-FF3366?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva2006-Mahalingam)
+[![Latest Release](https://img.shields.io/github/v/release/Siva2006-Mahalingam/Snugle-Musix?style=for-the-badge&color=8c52ff&logo=github)](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)](LICENSE)
 
 </div>
@@ -94,9 +94,7 @@ Snuggle Musix is built natively for Android using modern Android architecture co
 
 The latest pre-built APK is available directly on GitHub Releases:
 
-📦 **[Download Snuggle Musix APK](https://github.com/prasanna172605/Snugle-Musix/releases/latest)**
-
-You can also visit the official website: **[https://prasanna0705.netlify.app/Snuggle-Musix](https://prasanna0705.netlify.app/Snuggle-Musix)**
+📦 **[Download Snuggle Musix APK](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)**
 
 ---
 
@@ -105,21 +103,17 @@ You can also visit the official website: **[https://prasanna0705.netlify.app/Snu
 ### Prerequisites
 - Android Studio Ladybug (or newer)
 - JDK 17 or JDK 21
-- Android SDK 35
+- Android SDK 35 / 36
 
 ### Clone & Compile
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/prasanna172605/Snugle-Musix.git
+git clone https://github.com/Siva2006-Mahalingam/Snugle-Musix.git
 cd Snugle-Musix
 
 # 2. Build the debug APK
-./gradlew assembleDebug
-
-# 3. Output location
-# The generated APK will be located at:
-# app/build/outputs/apk/debug/app-debug.apk
+./gradlew assembleFossDebug
 ```
 
 ---

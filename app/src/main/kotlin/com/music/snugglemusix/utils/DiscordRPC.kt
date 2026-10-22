@@ -1,4 +1,4 @@
-﻿
+
 
 package com.snuggle.music.utils
 
@@ -296,7 +296,7 @@ class DiscordRPC(
         val button2UrlSource = context.dataStore[DiscordActivityButton2UrlSourceKey] ?: "custom"
         val button2CustomUrl =
             context.dataStore[DiscordActivityButton2CustomUrlKey]
-                ?: "https://github.com/prasanna172605/Snugle-Musix"
+                ?: "https://github.com/Siva2006-Mahalingam/Snugle-Musix"
 
         return buildList {
             if (button1Enabled) {

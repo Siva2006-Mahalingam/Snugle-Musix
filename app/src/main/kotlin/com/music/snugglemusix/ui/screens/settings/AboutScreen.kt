@@ -124,29 +124,8 @@ highlightKey: String? = null) {
                     AboutActionRow(
                         icon = painterResource(R.drawable.github),
                         title = "GitHub",
-                        subtitle = "prasanna172605/Snugle-Musix",
-                        onClick = { uriHandler.openUri("https://github.com/prasanna172605/Snugle-Musix") },
-                    )
-                    AboutDivider()
-                    AboutActionRow(
-                        icon = painterResource(R.drawable.website),
-                        title = "Portfolio",
-                        subtitle = "aberrant-portfolio-2026.web.app",
-                        onClick = { uriHandler.openUri("https://aberrant-portfolio-2026.web.app/") },
-                    )
-                    AboutDivider()
-                    AboutActionRow(
-                        icon = painterResource(R.drawable.website),
-                        title = "Website",
-                        subtitle = "prasanna0705.netlify.app",
-                        onClick = { uriHandler.openUri("https://prasanna0705.netlify.app/Snuggle-Musix") },
-                    )
-                    AboutDivider()
-                    AboutActionRow(
-                        icon = painterResource(R.drawable.ic_instagram_new),
-                        title = "Instagram",
-                        subtitle = "@__prasannaaah__",
-                        onClick = { uriHandler.openUri("https://www.instagram.com/__prasannaaah__/?__pwa=1") },
+                        subtitle = "Siva2006-Mahalingam/Snugle-Musix",
+                        onClick = { uriHandler.openUri("https://github.com/Siva2006-Mahalingam/Snugle-Musix") },
                     )
                 }
             }
@@ -240,7 +219,7 @@ private fun AboutAppCard() {
             Spacer(Modifier.height(4.dp))
             
             Text(
-                text = if (rotation <= 90f) "Snuggle Musix" else "Developed by Abberant",
+                text = if (rotation <= 90f) "Snuggle Musix" else "Developed by Siva",
                 style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onSurface,
@@ -460,7 +439,7 @@ private fun DeveloperProfileCard() {
                     verticalArrangement = Arrangement.spacedBy(4.dp)
                 ) {
                     Text(
-                        text = "Abberant",
+                        text = "Siva",
                         style = MaterialTheme.typography.titleMedium,
                         fontWeight = FontWeight.Bold,
                         color = MaterialTheme.colorScheme.onSurface
