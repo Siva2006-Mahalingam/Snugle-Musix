@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 3x2 Vinyl Turntable Widget -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_turntable_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_turntable_bg"
+    android:padding="8dp">
+
+    <!-- Vinyl Record + Album Art + Tonearm composite -->
+    <ImageView
+        android:id="@+id/widget_turntable_album_art"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/album_art" />
+
+    <!-- Subtle 3x2 dot grid accent on bottom right -->
+    <ImageView
+        android:id="@+id/widget_turntable_dot_grid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="14dp"
+        android:src="@drawable/ic_widget_dot_grid"
+        android:importantForAccessibility="no" />
+
+</FrameLayout>

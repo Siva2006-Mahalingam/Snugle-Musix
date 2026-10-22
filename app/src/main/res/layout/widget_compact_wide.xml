@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 5x1 Compact Player Widget -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_compact_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_player_pill_bg"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="10dp"
+    android:paddingEnd="10dp">
+
+    <!-- Left: Compact Vinyl Record with Album Art -->
+    <ImageView
+        android:id="@+id/widget_album_art"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_gravity="center_vertical"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/album_art" />
+
+    <!-- Center: Combined Track Info -->
+    <TextView
+        android:id="@+id/widget_song_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="8dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Song Title - Artist Name"
+        android:textColor="#FFFFFF"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <!-- Right: Controls Row -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <!-- Previous -->
+        <ImageView
+            android:id="@+id/widget_prev_button"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:padding="4dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_widget_skip_previous"
+            android:contentDescription="@string/previous" />
+
+        <Space
+            android:layout_width="6dp"
+            android:layout_height="1dp" />
+
+        <!-- Play/Pause -->
+        <ImageView
+            android:id="@+id/widget_play_pause"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:padding="4dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_widget_play"
+            android:contentDescription="@string/play_pause" />
+
+        <Space
+            android:layout_width="6dp"
+            android:layout_height="1dp" />
+
+        <!-- Next -->
+        <ImageView
+            android:id="@+id/widget_next_button"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:padding="4dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_widget_skip_next"
+            android:contentDescription="@string/next" />
+
+        <Space
+            android:layout_width="6dp"
+            android:layout_height="1dp" />
+
+        <!-- Like -->
+        <ImageView
+            android:id="@+id/widget_like_button"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:padding="4dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_widget_heart_inactive"
+            android:contentDescription="@string/like" />
+
+    </LinearLayout>
+
+</LinearLayout>

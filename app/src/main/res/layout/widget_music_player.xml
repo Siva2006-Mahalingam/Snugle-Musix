@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 5x2 Horizontal Player Widget -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_player_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_player_dark_bg"
+    android:padding="12dp">
+
+    <!-- Top-left Music Note Accent -->
+    <ImageView
+        android:id="@+id/widget_music_note"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:src="@drawable/ic_widget_music_note"
+        android:importantForAccessibility="no" />
+
+    <!-- Left: Circular Vinyl Record with Album Artwork -->
+    <ImageView
+        android:id="@+id/widget_album_art"
+        android:layout_width="92dp"
+        android:layout_height="92dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="8dp"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/album_art" />
+
+    <!-- Right Container for Info & Controls -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@id/widget_album_art"
+        android:layout_marginStart="14dp"
+        android:layout_marginEnd="6dp"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <!-- Song Title -->
+        <TextView
+            android:id="@+id/widget_song_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Song Title"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <!-- Artist Name -->
+        <TextView
+            android:id="@+id/widget_artist_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Artist Name"
+            android:textColor="#9E9EA6"
+            android:textSize="13sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <!-- Controls Row -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <!-- Previous Button -->
+            <ImageView
+                android:id="@+id/widget_prev_button"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_widget_skip_previous"
+                android:contentDescription="@string/previous" />
+
+            <Space
+                android:layout_width="12dp"
+                android:layout_height="1dp" />
+
+            <!-- Play/Pause Button -->
+            <ImageView
+                android:id="@+id/widget_play_pause"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_widget_play"
+                android:contentDescription="@string/play_pause" />
+
+            <Space
+                android:layout_width="12dp"
+                android:layout_height="1dp" />
+
+            <!-- Next Button -->
+            <ImageView
+                android:id="@+id/widget_next_button"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_widget_skip_next"
+                android:contentDescription="@string/next" />
+
+            <Space
+                android:layout_width="12dp"
+                android:layout_height="1dp" />
+
+            <!-- Like/Heart Button -->
+            <ImageView
+                android:id="@+id/widget_like_button"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_widget_heart_inactive"
+                android:contentDescription="@string/like" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

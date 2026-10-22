@@ -1,0 +1,53 @@
+
+
+package com.snuggle.music.viewmodels
+
+import android.content.Context
+import androidx.lifecycle.SavedStateHandle
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewModelScope
+import com.music.innertube.YouTube
+import com.music.innertube.pages.BrowseResult
+import com.snuggle.music.constants.HideExplicitKey
+import com.snuggle.music.constants.HideVideoSongsKey
+import com.snuggle.music.constants.HideYoutubeShortsKey
+import com.snuggle.music.utils.dataStore
+import com.snuggle.music.utils.get
+import com.snuggle.music.utils.reportException
+import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.qualifiers.ApplicationContext
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.Dispatchers
+import javax.inject.Inject
+
+@HiltViewModel
+class YouTubeBrowseViewModel
+@Inject
+constructor(
+    @ApplicationContext val context: Context,
+    savedStateHandle: SavedStateHandle,
+) : ViewModel() {
+    private val browseId = savedStateHandle.get<String>("browseId")!!
+    private val params = savedStateHandle.get<String>("params")
+
+    val result = MutableStateFlow<BrowseResult?>(null)
+
+    init {
+        viewModelScope.launch(Dispatchers.IO) {
+            val hideExplicit = context.dataStore.get(HideExplicitKey, false)
+            val hideVideoSongs = context.dataStore.get(HideVideoSongsKey, false)
+            val hideYoutubeShorts = context.dataStore.get(HideYoutubeShortsKey, false)
+            YouTube
+                .browse(browseId, params)
+                .onSuccess {
+                    result.value = it
+                        .filterExplicit(hideExplicit)
+                        .filterVideoSongs(hideVideoSongs)
+                        .filterYoutubeShorts(hideYoutubeShorts)
+                }.onFailure {
+                    reportException(it)
+                }
+        }
+    }
+}
