@@ -33,8 +33,8 @@ android {
         applicationId = "com.snuggle.music"
         minSdk = 26
         targetSdk = 36
-        versionCode = 2003
-        versionName = "1.0.3"
+        versionCode = 2004
+        versionName = "1.0.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
@@ -116,7 +116,11 @@ android {
             isShrinkResources = true
             isCrunchPngs = false
             isDebuggable = false
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = if (file("keystore/release.keystore").exists()) {
+                signingConfigs.getByName("release")
+            } else {
+                signingConfigs.getByName("debug")
+            }
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
