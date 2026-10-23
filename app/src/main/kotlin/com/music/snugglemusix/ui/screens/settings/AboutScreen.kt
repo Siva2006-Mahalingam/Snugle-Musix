@@ -428,8 +428,8 @@ private fun DeveloperProfileCard() {
                 horizontalArrangement = Arrangement.spacedBy(16.dp)
             ) {
                 Image(
-                    painter = painterResource(R.drawable.developer_abberant),
-                    contentDescription = "Abberant",
+                    painter = painterResource(R.drawable.developer_siva),
+                    contentDescription = "Siva",
                     modifier = Modifier
                         .size(64.dp)
                         .clip(CircleShape),
