@@ -1,4 +1,4 @@
-﻿
+
 
 package com.snuggle.music.snugglemusix.updater
 
@@ -412,15 +412,24 @@ fun UpdateScreen(navController: NavHostController) {
                                     horizontalAlignment = Alignment.CenterHorizontally,
                                     modifier = Modifier.fillMaxWidth()
                                 ) {
-                                    AsyncImage(
-                                        model = R.drawable.update_illustration,
-                                        contentDescription = null,
+                                    Surface(
                                         modifier = Modifier
                                             .fillMaxWidth()
-                                            .height(220.dp)
-                                            .clip(RoundedCornerShape(24.dp)),
-                                        contentScale = ContentScale.Crop
-                                    )
+                                            .height(200.dp),
+                                        shape = RoundedCornerShape(24.dp),
+                                        color = MaterialTheme.colorScheme.surfaceContainerHigh
+                                    ) {
+                                        Box(
+                                            contentAlignment = Alignment.Center,
+                                            modifier = Modifier.fillMaxSize()
+                                        ) {
+                                            androidx.compose.foundation.Image(
+                                                painter = painterResource(R.drawable.ic_launcher_foreground),
+                                                contentDescription = "Mixtape Logo",
+                                                modifier = Modifier.size(150.dp)
+                                            )
+                                        }
+                                    }
                                     Spacer(modifier = Modifier.height(24.dp))
                                     Text(
                                         text = stringResource(R.string.on_latest_version),
