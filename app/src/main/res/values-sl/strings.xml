@@ -29,7 +29,7 @@
     <string name="most_played_artists">Najbolj predvajani izvajalci</string>
     <string name="most_played_albums">Najbolj predvajani albumi</string>
     <string name="search">Išči</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Iskanje v knjižnici…</string>
     <string name="filter_library">Knjižnica</string>
     <string name="filter_liked">Všečkano</string>
@@ -396,7 +396,7 @@
 
 
     <string name="spotify_import_title">Uvozi iz Spotifyja</string>
-    <string name="spotify_import_desc">Povežite Spotify, izberite sezname predvajanja in jih preslikajte v lokalne sezname JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Povežite Spotify, izberite sezname predvajanja in jih preslikajte v lokalne sezname Mixtape.</string>
     <string name="spotify_connect">Poveži Spotify</string>
     <string name="spotify_refresh">Osveži knjižnico Spotify</string>
     <string name="spotify_select_sources">Izberite sezname predvajanja Spotify</string>

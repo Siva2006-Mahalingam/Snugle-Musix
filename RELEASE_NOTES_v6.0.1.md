@@ -1,4 +1,4 @@
-﻿# JanSiv-Musix v6.0.1
+﻿# Mixtape v6.0.1
 
 ### 🚀 What's New & Improvements
 - **⚡ Playback Stutter & Infinite Loading Fix**: Optimized YouTube InnerTube client fallback order (`IOS`, `IPADOS`, `MOBILE`, `WEB_REMIX`, `ANDROID_CREATOR`) to prevent bot mitigation and sign-in challenge loops.

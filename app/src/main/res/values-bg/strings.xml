@@ -42,7 +42,7 @@
     <string name="search_library">Търсене в библиотека…</string>
     <string name="filter_artists">Изпълнители</string>
     <string name="most_played_artists">Най-пускани изпълнители</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="filter_liked">Харесвани</string>
     <string name="filter_downloaded">Изтеглени</string>
     <string name="filter_all">Всички</string>
@@ -353,7 +353,7 @@
 
 
     <string name="spotify_import_title">Импортиране от Spotify</string>
-    <string name="spotify_import_desc">Свържете Spotify, изберете плейлисти и ги огледайте в локални плейлисти на JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Свържете Spotify, изберете плейлисти и ги огледайте в локални плейлисти на Mixtape.</string>
     <string name="spotify_connect">Свързване със Spotify</string>
     <string name="spotify_refresh">Обновяване на библиотеката на Spotify</string>
     <string name="spotify_select_sources">Избор на плейлисти от Spotify</string>

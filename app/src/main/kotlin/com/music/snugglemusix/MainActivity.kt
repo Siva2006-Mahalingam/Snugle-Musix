@@ -1,4 +1,4 @@
-package com.snuggle.music
+﻿package com.snuggle.music
 
 
 import com.snuggle.music.ui.component.GlassComponent
@@ -1435,7 +1435,7 @@ LocalGlassEffectConfig provides glassEffectConfig,
                                     verticalArrangement = Arrangement.spacedBy(10.dp)
                                 ) {
                                     Text(
-                                        text = "A new version of JanSiv-Musix is ready with new features and performance enhancements.",
+                                        text = "A new version of Mixtape is ready with new features and performance enhancements.",
                                         style = MaterialTheme.typography.bodyMedium,
                                         color = MaterialTheme.colorScheme.onSurfaceVariant
                                     )

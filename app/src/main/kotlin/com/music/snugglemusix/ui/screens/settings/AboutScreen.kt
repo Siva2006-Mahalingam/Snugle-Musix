@@ -118,17 +118,7 @@ highlightKey: String? = null) {
             item {
                 DeveloperProfileCard()
             }
-            
-            item {
-                AboutSectionCard(title = "Links") {
-                    AboutActionRow(
-                        icon = painterResource(R.drawable.github),
-                        title = "GitHub",
-                        subtitle = "Siva2006-Mahalingam/Snugle-Musix",
-                        onClick = { uriHandler.openUri("https://github.com/Siva2006-Mahalingam/Snugle-Musix") },
-                    )
-                }
-            }
+
 
         }
     }
@@ -201,13 +191,13 @@ private fun AboutAppCard() {
                 if (rotation <= 90f) {
                     Image(
                         painter = painterResource(logoDrawable),
-                        contentDescription = "JanSiv-Musix Logo",
+                        contentDescription = "Mixtape Logo",
                         modifier = Modifier.fillMaxSize().clip(CircleShape)
                     )
                 } else {
                     Image(
                         painter = painterResource(logoDrawable),
-                        contentDescription = "JanSiv-Musix Logo",
+                        contentDescription = "Mixtape Logo",
                         modifier = Modifier
                             .fillMaxSize()
                             .clip(CircleShape)
@@ -219,10 +209,16 @@ private fun AboutAppCard() {
             Spacer(Modifier.height(4.dp))
             
             Text(
-                text = if (rotation <= 90f) "JanSiv-Musix" else "Developed by Siva",
+                text = if (rotation <= 90f) "Mixtape" else "Developed by Siva",
                 style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onSurface,
+            )
+            Text(
+                text = "Your Music. Your Vibe.",
+                style = MaterialTheme.typography.bodyMedium,
+                fontWeight = FontWeight.Medium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
             Row(
                 horizontalArrangement = Arrangement.spacedBy(6.dp),

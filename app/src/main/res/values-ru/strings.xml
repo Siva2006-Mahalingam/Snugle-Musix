@@ -30,7 +30,7 @@
     <string name="most_played_artists">Самые прослушиваемые исполнители</string>
     <string name="most_played_albums">Самые прослушиваемые альбомы</string>
     <string name="search">Поиск</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Поиск в библиотеке…</string>
     <string name="filter_library">Библиотека</string>
     <string name="filter_liked">Понравившиеся</string>
@@ -374,7 +374,7 @@
 
 
     <string name="spotify_import_title">Импорт из Spotify</string>
-    <string name="spotify_import_desc">Подключите Spotify, выберите плейлисты и зеркально отразите их в локальных плейлистах JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Подключите Spotify, выберите плейлисты и зеркально отразите их в локальных плейлистах Mixtape.</string>
     <string name="spotify_connect">Подключить Spotify</string>
     <string name="spotify_refresh">Обновить библиотеку Spotify</string>
     <string name="spotify_select_sources">Выбрать плейлисты Spotify</string>

@@ -1,4 +1,4 @@
-package com.music.echo.ui.screens.settings
+﻿package com.music.echo.ui.screens.settings
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -54,7 +54,7 @@ fun DiscordExperimental(navController: NavController) {
     val (button2Label, onButton2LabelChange) =
         rememberPreference(
             key = DiscordActivityButton2LabelKey,
-            defaultValue = "Go to JanSiv-Musix",
+            defaultValue = "Go to Mixtape",
         )
     val (button2Enabled, onButton2EnabledChange) =
         rememberPreference(

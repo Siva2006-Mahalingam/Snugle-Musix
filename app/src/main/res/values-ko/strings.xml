@@ -23,7 +23,7 @@
     <string name="most_played_artists">가장 많이 재생한 아티스트</string>
     <string name="most_played_albums">가장 많이 재생한 앨범</string>
     <string name="search">검색</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">보관함 검색…</string>
     <string name="filter_library">보관함</string>
     <string name="filter_liked">좋아요 표시 됨</string>
@@ -345,7 +345,7 @@
 
 
     <string name="spotify_import_title">Spotify에서 가져오기</string>
-    <string name="spotify_import_desc">Spotify를 연결하고 재생목록을 선택하여 로컬 JanSiv-Musix 재생목록에 미러링합니다.</string>
+    <string name="spotify_import_desc">Spotify를 연결하고 재생목록을 선택하여 로컬 Mixtape 재생목록에 미러링합니다.</string>
     <string name="spotify_connect">Spotify 연결</string>
     <string name="spotify_refresh">Spotify 보관함 새로고침</string>
     <string name="spotify_select_sources">Spotify 재생목록 선택</string>

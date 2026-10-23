@@ -25,7 +25,7 @@
     <string name="most_played_songs">Лепшыя кампазіцыі</string>
     <string name="most_played_artists">Лепшыя выканаўцы</string>
     <string name="search">Пошук</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Пошук у бібліятэцы…</string>
     <string name="filter_all">Усе</string>
     <string name="filter_songs">Песні</string>
@@ -379,7 +379,7 @@
 
 
     <string name="spotify_import_title">Імпарт з Spotify</string>
-    <string name="spotify_import_desc">Падключыце Spotify, абярыце плэй-лісты і адлюструйце іх у лакальныя плэй-лісты JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Падключыце Spotify, абярыце плэй-лісты і адлюструйце іх у лакальныя плэй-лісты Mixtape.</string>
     <string name="spotify_connect">Падключыць Spotify</string>
     <string name="spotify_refresh">Абнавіць бібліятэку Spotify</string>
     <string name="spotify_select_sources">Выбраць плэй-лісты Spotify</string>

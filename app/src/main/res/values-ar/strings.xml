@@ -15,7 +15,7 @@
     <string name="last_week">الأسبوع الماضي</string>
     <string name="most_played_artists">الفنانون الأكثر استماعًا</string>
     <string name="most_played_albums">الألبومات الأكثر استماعًا</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">ابحث في المكتبة…</string>
     <string name="filter_liked">أعجبك</string>
     <string name="filter_downloaded">تم تنزيلها</string>
@@ -392,7 +392,7 @@
     <string name="listen_together_smart_resync_desc">التقط تلقائيًا مع المضيف بعد انقطاع الاتصال</string>
 
     <string name="spotify_import_title">استيراد من Spotify</string>
-    <string name="spotify_import_desc">اربط Spotify، واختر قوائم الأغاني، وانسخها إلى قوائم JanSiv-Musix المحلية.</string>
+    <string name="spotify_import_desc">اربط Spotify، واختر قوائم الأغاني، وانسخها إلى قوائم Mixtape المحلية.</string>
     <string name="spotify_connect">ربط Spotify</string>
     <string name="spotify_refresh">تحديث مكتبة Spotify</string>
     <string name="spotify_select_sources">اختر قوائم أغاني Spotify</string>

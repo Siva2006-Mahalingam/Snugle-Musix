@@ -1,6 +1,6 @@
-﻿# Contributing to JanSiv-Musix
+﻿# Contributing to Mixtape
 
-Thank you for your interest in contributing to JanSiv-Musix! This document provides comprehensive guidelines and information for contributors.
+Thank you for your interest in contributing to Mixtape! This document provides comprehensive guidelines and information for contributors.
 
 ## Table of Contents
 
@@ -65,12 +65,12 @@ We are committed to providing a welcoming and inspiring community for all. We pl
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/JanSiv-Musix.git
-   cd JanSiv-Musix
+   git clone https://github.com/YOUR_USERNAME/Mixtape.git
+   cd Mixtape
    ```
 3. Add the upstream repository:
    ```bash
-   git remote add upstream https://github.com/Siva2006-Mahalingam/JanSiv-Musix.git
+   git remote add upstream https://github.com/Siva2006-Mahalingam/Mixtape.git
    ```
 
 ## Development Setup
@@ -107,7 +107,7 @@ If you want to test Firebase features:
 
 ## Handling Sensitive Information
 
-When contributing to JanSiv-Musix, it's crucial to handle sensitive information properly:
+When contributing to Mixtape, it's crucial to handle sensitive information properly:
 
 ### Files That Should Never Be Committed
 
@@ -405,7 +405,7 @@ We follow [Semantic Versioning](https://semver.org/):
 
 If you have questions about contributing:
 
-1. Check the [GitHub Discussions](https://github.com/Siva2006-Mahalingam/JanSiv-Musix/discussions)
+1. Check the [GitHub Discussions](https://github.com/Siva2006-Mahalingam/Mixtape/discussions)
 2. Create a new discussion
 3. Contact maintainers directly through GitHub
 
@@ -421,11 +421,11 @@ Contributors will be recognized in:
 
 If you have questions about contributing:
 
-1. Check the [GitHub Discussions](https://github.com/Siva2006-Mahalingam/JanSiv-Musix/discussions)
+1. Check the [GitHub Discussions](https://github.com/Siva2006-Mahalingam/Mixtape/discussions)
 2. Create a new discussion
 3. Contact maintainers directly
 
-Thank you for contributing to JanSiv-Musix!
+Thank you for contributing to Mixtape!
 
 ---
 <div align="center">

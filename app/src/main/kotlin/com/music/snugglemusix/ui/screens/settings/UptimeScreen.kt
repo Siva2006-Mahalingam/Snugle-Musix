@@ -1,4 +1,4 @@
-package com.snuggle.music.ui.screens.settings
+﻿package com.snuggle.music.ui.screens.settings
 
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.core.tween
@@ -70,7 +70,7 @@ highlightKey: String? = null) {
 
     val canvasServices = remember {
         mutableStateListOf(
-            ServiceStatus("JanSiv Canvas", { "https://github.com/Siva2006-Mahalingam/Snugle-Musix" }),
+            ServiceStatus("Mixtape Canvas", { "https://github.com/Siva2006-Mahalingam/Snugle-Musix" }),
             ServiceStatus("Tidal Canvas", { "https://api.tidal.com/v1/" })
         )
     }
@@ -101,7 +101,7 @@ highlightKey: String? = null) {
     val otherServices = remember {
         mutableStateListOf(
             ServiceStatus("Apple Music API", { "https://amp-api.music.apple.com" }),
-            ServiceStatus("JanSiv Find (Shazam)", { "https://amp.shazam.com" })
+            ServiceStatus("Mixtape Find (Shazam)", { "https://amp.shazam.com" })
         )
     }
 

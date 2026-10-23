@@ -1,4 +1,4 @@
-
+﻿
 
 package com.snuggle.music.utils
 
@@ -47,7 +47,7 @@ class CrashHandler private constructor(
         }.toString()
 
         return buildString {
-            appendLine("JanSiv-Musix Crash Report")
+            appendLine("Mixtape Crash Report")
             appendLine("=".repeat(50))
             appendLine()
             appendLine("Manufacturer: ${Build.MANUFACTURER}")

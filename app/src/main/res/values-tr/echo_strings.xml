@@ -309,7 +309,7 @@
   <string name="enable_scrobbling">Scrobbling\'i etkinleÅŸtir</string>
   <string name="lastfm_now_playing">Åžimdi Ã§alanÄ± gÃ¶nder</string>
   <string name="last_fm_send_likes">BeÄŸenilenler/BeÄŸenilmeyenleri GÃ¶nder</string>
-  <string name="last_fm_send_likes_description">JanSiv-Musix\'te BeÄŸenilen/BeÄŸenilmeyen ÅŸarkÄ±larÄ± Last.fm\'de de BeÄŸen/BeÄŸenme</string>
+  <string name="last_fm_send_likes_description">Mixtape\'te BeÄŸenilen/BeÄŸenilmeyen ÅŸarkÄ±larÄ± Last.fm\'de de BeÄŸen/BeÄŸenme</string>
   <string name="logging_in">GiriÅŸ yapÄ±lÄ±yorâ€¦</string>
   <string name="scrobbling_configuration">Scrobbling YapÄ±landÄ±rmasÄ±</string>
   <string name="scrobble_min_track_duration">Åžu sÃ¼reden uzun ÅŸarkÄ±larÄ± kaydet</string>
@@ -346,7 +346,7 @@
   <string name="karaoke">Karaoke</string>
   <string name="apple_music_style">Apple MÃ¼zik</string>
   <string name="apple_music_style_letter">Apple Music V2 (Letter by Letter)</string>
-  <string name="echomusic_1">JanSiv-Musix (Fluid)</string>
+  <string name="echomusic_1">Mixtape (Fluid)</string>
   <string name="apple_music_lyrics_blur">Apple Music Lyrics Blur</string>
   <string name="apple_music_lyrics_blur_desc">Premium bir odak efekti iÃ§in pasif ÅŸarkÄ± sÃ¶zÃ¼ satÄ±rlarÄ±na bulanÄ±klÄ±k uygulayÄ±n</string>
   <string name="lyrics_v2_fluid">ÅžarkÄ± SÃ¶zleri V2 (AkÄ±cÄ±)</string>
@@ -375,19 +375,19 @@
   <string name="wrapped_total_artists_subtitle">benzersiz sanatÃ§Ä±lar</string>
   <string name="wrapped_total_songs_title">ÅžunlarÄ± dinlediniz</string>
   <string name="wrapped_total_songs_subtitle">benzersiz ÅŸarkÄ±lar</string>
-  <string name="wrapped_intro_title">JanSiv-Musix</string>
+  <string name="wrapped_intro_title">Mixtape</string>
   <string name="wrapped_intro_subtitle">Dinlediklerinize gÃ¶z atmanÄ±n zamanÄ± geldi</string>
   <string name="wrapped_intro_button">hadi baÅŸlayalÄ±m!</string>
-  <string name="wrapped_end_thanks">JanSiv-Musix ile dinlediÄŸiniz iÃ§in teÅŸekkÃ¼rler!</string>
+  <string name="wrapped_end_thanks">Mixtape ile dinlediÄŸiniz iÃ§in teÅŸekkÃ¼rler!</string>
   <string name="wrapped_end_create_playlist">Ã–zet Ã‡alma Listeni OluÅŸtur</string>
   <string name="wrapped_end_creating_playlist">OluÅŸturuluyor...</string>
   <string name="wrapped_end_playlist_saved">Ã‡alma Listesi Kaydedildi</string>
-  <string name="wrapped_logo_content_description">JanSiv-Musix Logosu</string>
+  <string name="wrapped_logo_content_description">Mixtape Logosu</string>
   <string name="wrapped_year">2025</string>
   <string name="wrapped_ready_title">Ã–ZETÄ°NÄ°Z HAZIR!</string>
   <string name="wrapped_ready_subtitle">Bu yÄ±l neleri sevdiÄŸini gÃ¶rme zamanÄ±.</string>
   <string name="wrapped_thank_you">DinlediÄŸin iÃ§in teÅŸekkÃ¼rler</string>
-  <string name="wrapped_special_thanks">JanSiv-Musix\'i oluÅŸturduÄŸu iÃ§in MO Agamy\'ye Ã¶zel teÅŸekkÃ¼rler</string>
+  <string name="wrapped_special_thanks">Mixtape\'i oluÅŸturduÄŸu iÃ§in MO Agamy\'ye Ã¶zel teÅŸekkÃ¼rler</string>
   <string name="wrapped_close">Ã–zeti kapat</string>
   <string name="wrapped_playlist_title">%s Ã–zetin</string>
   <string name="wrapped_create_playlist">Ã‡alma listesi oluÅŸtur</string>
@@ -418,9 +418,9 @@
   <string name="plays">plays</string>
   <string name="casting_to">%s cihazÄ±na yansÄ±tÄ±lÄ±yor</string>
   <string name="progress_percent">Ä°lerleme %s%%</string>
-  <string name="listening_to_echomusic">JanSiv-Musix dinleniyor</string>
+  <string name="listening_to_echomusic">Mixtape dinleniyor</string>
   <string name="listen_on_youtube_music">YouTube Music\'te dinle</string>
-  <string name="visit_echomusic">JanSiv-Musix\'i ziyaret et</string>
+  <string name="visit_echomusic">Mixtape\'i ziyaret et</string>
   <string name="open">AÃ§</string>
   <string name="failed_to_create_image">GÃ¶rsel oluÅŸturulamadÄ±: %s</string>
   <string name="copied_title">BaÅŸlÄ±k kopyalandÄ±</string>
@@ -435,13 +435,13 @@
   <!-- Widget strings -->
   <string name="album_art">AlbÃ¼m kapaÄŸÄ±</string>
   <string name="no_song_playing">OynatÄ±lan ÅŸarkÄ± yok</string>
-  <string name="tap_to_open">JanSiv-Musix\'i aÃ§mak iÃ§in bas</string>
+  <string name="tap_to_open">Mixtape\'i aÃ§mak iÃ§in bas</string>
   <string name="previous">Bir Ã¶nceki</string>
   <string name="play_pause">Devam Et/Duraklat</string>
   <string name="next">Bir sonraki</string>
   <string name="like">BeÄŸen</string>
   <string name="not_playing">Herhangi bir ÅŸarkÄ± oynatÄ±lmÄ±yor</string>
-  <string name="tap_to_play">JanSiv-Musix\'i aÃ§mak iÃ§in tÄ±kla</string>
+  <string name="tap_to_play">Mixtape\'i aÃ§mak iÃ§in tÄ±kla</string>
   <string name="widget_description">OynatÄ±cÄ± widgetÄ± iÃ§in arkaplan kontrolcÃ¼sÃ¼</string>
   <string name="queue_widget_description">SÄ±ra Ã¶nizlemeli oynatÄ±cÄ±</string>
   <string name="turntable_widget_description">ÅžarkÄ±yÄ± oynatmak ve deÄŸiÅŸtirmek yapÄ±lmÄ±ÅŸ iÃ§in dairesel mÃ¼zik widget\'Ä±</string>
@@ -593,7 +593,7 @@
   <string name="crash_description">Beklenmedik bir hata oluÅŸtu. Sorunu Ã§Ã¶zebilmemiz iÃ§in lÃ¼tfen bize oluÅŸan hatayÄ± raporlayÄ±n.</string>
   <string name="crash_share_logs">LoglarÄ± paylaÅŸ</string>
   <string name="crash_share_title">Hata raporlarÄ±nÄ± paylaÅŸ</string>
-  <string name="crash_report_subject">JanSiv-Musix Hata Bildirimi</string>
+  <string name="crash_report_subject">Mixtape Hata Bildirimi</string>
   <string name="crash_close">Kapat</string>
   <string name="crash_no_log">Hata loglarÄ± bulunmamakta</string>
   <!-- Theme Palette Names -->
@@ -642,7 +642,7 @@
   <string name="delete_from_history">GeÃ§miÅŸten sil</string>
   <string name="re_listen">Yeniden dinle</string>
   <string name="hold_to_recognize">MÃ¼ziÄŸi tanÄ±mlamak iÃ§in arama tuÅŸuna basÄ±lÄ± tutun</string>
-  <string name="play_on_app">JanSiv-Musix\'te dinle</string>
+  <string name="play_on_app">Mixtape\'te dinle</string>
   <string name="recognized_track">TanÄ±mlanmÄ±ÅŸ parÃ§a</string>
   <!-- CSV Import Strings -->
   <string name="map_csv_columns">CSV dizelerini iÃ§e aktar</string>
@@ -679,9 +679,9 @@
   <string name="discord_rpc_preview">Zengin GÃ¶rÃ¼nÃ¼m Ã–nizlemesi</string>
   <string name="discord_presence">GÃ¶rÃ¼nÃ¼m</string>
   <string name="discord_connect_description">Ne dinlediÄŸini paylaÅŸmak iÃ§in Discord\'a giriÅŸ yap</string>
-  <string name="discord_playing_echomusic">JanSiv-Musix oynatÄ±lÄ±yor</string>
-  <string name="discord_watching_echomusic">JanSiv-Musix izlenliyor</string>
-  <string name="discord_competing_echomusic">JanSiv-Musix\'te yarÄ±ÅŸ</string>
+  <string name="discord_playing_echomusic">Mixtape oynatÄ±lÄ±yor</string>
+  <string name="discord_watching_echomusic">Mixtape izlenliyor</string>
+  <string name="discord_competing_echomusic">Mixtape\'te yarÄ±ÅŸ</string>
   <string name="discord_activity_name">Aktivite adÄ±</string>
   <string name="discord_activity_name_description">Aktivite iÃ§in Ã¶zel ad (boÅŸ bÄ±rakÄ±lÄ±rsa varsayÄ±lan kullanÄ±lÄ±r)</string>
   <string name="discord_advanced_mode">GeliÅŸmiÅŸ seÃ§enekler</string>

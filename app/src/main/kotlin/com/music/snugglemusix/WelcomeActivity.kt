@@ -321,7 +321,7 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                 ) {
                     Spacer(modifier = Modifier.weight(1f))
 
-                    val welcomeText = "Welcome to JanSiv-Musix"
+                    val welcomeText = "Welcome to Mixtape"
 
                     Text(
                         text = welcomeText,
@@ -329,7 +329,15 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                         color = MaterialTheme.colorScheme.onBackground
                     )
 
-                    Spacer(modifier = Modifier.height(24.dp))
+                    Spacer(modifier = Modifier.height(8.dp))
+
+                    Text(
+                        text = "Your Music. Your Vibe.",
+                        style = MaterialTheme.typography.titleMedium.copy(fontFamily = GoogleSansFlex),
+                        color = MaterialTheme.colorScheme.primary
+                    )
+
+                    Spacer(modifier = Modifier.height(16.dp))
 
                     val (customUsername, onCustomUsernameChange) = rememberPreference(CustomUsernameKey, "")
                     var localUsername by rememberSaveable(customUsername) { mutableStateOf(customUsername) }
@@ -573,7 +581,7 @@ fun WelcomePagerScreen(onFinished: () -> Unit) {
                     Spacer(modifier = Modifier.height(16.dp))
 
                     Text(
-                        text = "JanSiv-Musix is open-source and depends on community support to grow. Your help makes a difference!",
+                        text = "Mixtape is open-source and depends on community support to grow. Your help makes a difference!",
                         style = MaterialTheme.typography.bodyLarge.copy(
                             fontFamily = GoogleSansFlex
                         ),

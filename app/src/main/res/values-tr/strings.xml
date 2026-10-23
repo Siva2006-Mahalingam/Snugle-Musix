@@ -46,7 +46,7 @@
 
     <!-- Search -->
     <string name="search">Arama</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Kütüphanede ara…</string>
     <string name="filter_library">Kütüphane</string>
     <string name="filter_liked">Beğenilenler</string>
@@ -413,7 +413,7 @@
 
 
     <string name="spotify_import_title">Spotify\'dan İçe Aktar</string>
-    <string name="spotify_import_desc">Spotify\'ı bağlayın, çalma listeleri seçin ve bunları yerel JanSiv-Musix çalma listelerine yansıtın.</string>
+    <string name="spotify_import_desc">Spotify\'ı bağlayın, çalma listeleri seçin ve bunları yerel Mixtape çalma listelerine yansıtın.</string>
     <string name="spotify_connect">Spotify\'ı Bağla</string>
     <string name="spotify_refresh">Spotify kütüphanesini yenile</string>
     <string name="spotify_select_sources">Spotify çalma listelerini seç</string>

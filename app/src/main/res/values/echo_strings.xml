@@ -100,7 +100,7 @@
   <string name="thumbnail_corner_radius_desc">Change the corner radius of the album cover thumbnail</string>
   <string name="crop_album_art">Crop Album Art</string>
   <string name="crop_album_art_desc">Force a square aspect ratio by cropping video thumbnails</string>
-  <string name="echomusic_canvas">JanSiv Canvas</string>
+  <string name="echomusic_canvas">Mixtape Canvas</string>
   <string name="echomusic_canvas_desc">Show animated album covers when available</string>
   <string name="show_album_canvas">Show Album Canvas</string>
   <string name="show_album_canvas_desc">Display animated canvas in album</string>
@@ -335,7 +335,7 @@
   <string name="enable_scrobbling">Enable scrobbling</string>
   <string name="lastfm_now_playing">Send Now Playing</string>
   <string name="last_fm_send_likes">Send Likes/Unlikes</string>
-  <string name="last_fm_send_likes_description">Love/Unlove songs in Last.fm when they are Liked/Unliked in JanSiv-Musix</string>
+  <string name="last_fm_send_likes_description">Love/Unlove songs in Last.fm when they are Liked/Unliked in Mixtape</string>
   <string name="logging_in">Logging in…</string>
   <string name="scrobbling_configuration">Scrobbling Configuration</string>
   <string name="scrobble_min_track_duration">Scrobble songs longer than</string>
@@ -389,7 +389,7 @@
   <string name="karaoke">Karaoke</string>
   <string name="apple_music_style">Apple Music</string>
   <string name="apple_music_style_letter">Apple Music V2 (Letter by Letter)</string>
-  <string name="echomusic_1">JanSiv-Musix (Fluid)</string>
+  <string name="echomusic_1">Mixtape (Fluid)</string>
   <string name="apple_music_lyrics_blur">Apple Music Lyrics Blur</string>
   <string name="apple_music_lyrics_blur_desc">Apply blur to inactive lyrics lines for a premium focus effect</string>
   <string name="lyrics_v2_fluid">Lyrics V2 (Fluid)</string>
@@ -419,19 +419,19 @@
   <string name="wrapped_total_artists_subtitle">unique artists</string>
   <string name="wrapped_total_songs_title">You listened to</string>
   <string name="wrapped_total_songs_subtitle">unique songs</string>
-  <string name="wrapped_intro_title">JanSiv-Musix</string>
+  <string name="wrapped_intro_title">Mixtape</string>
   <string name="wrapped_intro_subtitle">it\'s time to see what you\'ve been listening to</string>
   <string name="wrapped_intro_button">let\'s go!</string>
-  <string name="wrapped_end_thanks">Thanks for listening with JanSiv-Musix!</string>
+  <string name="wrapped_end_thanks">Thanks for listening with Mixtape!</string>
   <string name="wrapped_end_create_playlist">Create Your Wrapped Playlist</string>
   <string name="wrapped_end_creating_playlist">Creating...</string>
   <string name="wrapped_end_playlist_saved">Playlist Saved</string>
-  <string name="wrapped_logo_content_description">JanSiv-Musix Logo</string>
+  <string name="wrapped_logo_content_description">Mixtape Logo</string>
   <string name="wrapped_year">2025</string>
   <string name="wrapped_ready_title">YOUR WRAPPED IS READY!</string>
   <string name="wrapped_ready_subtitle">Time to see what you loved this year.</string>
   <string name="wrapped_thank_you">Thank you for listening</string>
-  <string name="wrapped_special_thanks">Special thanks to the developer for creating JanSiv-Musix</string>
+  <string name="wrapped_special_thanks">Special thanks to the developer for creating Mixtape</string>
   <string name="wrapped_close">Close wrapped</string>
   <string name="wrapped_playlist_title">Your %s Wrapped</string>
   <string name="wrapped_create_playlist">Create playlist</string>
@@ -487,7 +487,7 @@
   <string name="eq_preset_dirac_game">Dirac Game</string>
   <string name="eq_enable_title">Equalizer</string>
   <string name="eq_enable_summary">Toggle professional audio processing</string>
-  <string name="eq_label_echo">JanSiv Signature</string>
+  <string name="eq_label_echo">Mixtape Signature</string>
   <string name="eq_label_dolby">Dolby Atmos</string>
   <string name="eq_label_dirac">Dirac Audio</string>
   <string name="eq_reset">Reset</string>
@@ -504,9 +504,9 @@
   <string name="plays">plays</string>
   <string name="casting_to">Casting to %s</string>
   <string name="progress_percent">Progress %s%%</string>
-  <string name="listening_to_echomusic">Listening to JanSiv-Musix</string>
+  <string name="listening_to_echomusic">Listening to Mixtape</string>
   <string name="listen_on_youtube_music">Listen on YouTube Music</string>
-  <string name="visit_echomusic">Visit JanSiv-Musix</string>
+  <string name="visit_echomusic">Visit Mixtape</string>
   <string name="open">Open</string>
   <string name="failed_to_create_image">Failed to create image: %s</string>
   <string name="copied_title">Copied Title</string>
@@ -521,13 +521,13 @@
   <!-- Widget strings -->
   <string name="album_art">Album art</string>
   <string name="no_song_playing">No song playing</string>
-  <string name="tap_to_open">Tap to open JanSiv-Musix</string>
+  <string name="tap_to_open">Tap to open Mixtape</string>
   <string name="previous">Previous</string>
   <string name="play_pause">Play/Pause</string>
   <string name="next">Next</string>
   <string name="like">Like</string>
   <string name="not_playing">No song playing</string>
-  <string name="tap_to_play">Tap to open JanSiv-Musix</string>
+  <string name="tap_to_play">Tap to open Mixtape</string>
   <string name="widget_description">Music player widget with playback controls</string>
   <string name="queue_widget_description">Music player with queue preview</string>
   <string name="turntable_widget_description">Circular music widget with play and like controls</string>
@@ -683,7 +683,7 @@
   <string name="crash_share_logs">Share Logs</string>
   <string name="copy_logs">Copy Logs</string>
   <string name="crash_share_title">Share crash report</string>
-  <string name="crash_report_subject">JanSiv-Musix Crash Report</string>
+  <string name="crash_report_subject">Mixtape Crash Report</string>
   <string name="crash_close">Close</string>
   <string name="crash_no_log">No crash log available</string>
   <!-- Theme Palette Names -->
@@ -732,7 +732,7 @@
   <string name="delete_from_history">Delete from history</string>
   <string name="re_listen">Re-listen</string>
   <string name="hold_to_recognize">Hold search icon to recognize music</string>
-  <string name="play_on_app">Play on JanSiv-Musix</string>
+  <string name="play_on_app">Play on Mixtape</string>
   <string name="recognized_track">Recognized Track</string>
   <!-- CSV Import Strings -->
   <string name="map_csv_columns">Map CSV Columns</string>
@@ -769,9 +769,9 @@
   <string name="discord_rpc_preview">Rich Presence Preview</string>
   <string name="discord_presence">Presence</string>
   <string name="discord_connect_description">Sign in with Discord to share what you\'re listening to</string>
-  <string name="discord_playing_echomusic">Playing JanSiv-Musix</string>
-  <string name="discord_watching_echomusic">Watching JanSiv-Musix</string>
-  <string name="discord_competing_echomusic">Competing in JanSiv-Musix</string>
+  <string name="discord_playing_echomusic">Playing Mixtape</string>
+  <string name="discord_watching_echomusic">Watching Mixtape</string>
+  <string name="discord_competing_echomusic">Competing in Mixtape</string>
   <string name="discord_activity_name">Activity name</string>
   <string name="discord_activity_name_description">Custom name for the activity (leave empty for default)</string>
   <string name="discord_advanced_mode">Advanced mode</string>
@@ -826,14 +826,14 @@
   <string name="get_started">Get Started</string>
   <string name="perm_required">Required</string>
   <string name="perm_permissions">Permissions</string>
-  <string name="perm_intro_text">These permissions are required for JanSiv-Musix to function correctly. Please grant them to proceed.</string>
+  <string name="perm_intro_text">These permissions are required for Mixtape to function correctly. Please grant them to proceed.</string>
   <string name="perm_notif_title">Notifications</string>
   <string name="perm_notif_desc">Know immediately when your music is playing and control it from the notification bar.</string>
   <string name="perm_install_title">App Installation</string>
   <string name="perm_install_desc">Required to download and install app updates seamlessly.</string>
   <string name="feat_discover">Discover</string>
   <string name="feat_features">Features</string>
-  <string name="feat_intro">Explore everything JanSiv-Musix has to offer for your music journey.</string>
+  <string name="feat_intro">Explore everything Mixtape has to offer for your music journey.</string>
   <string name="feat_lyrics_title">Smart Lyrics</string>
   <string name="feat_lyrics_desc">Enjoy synchronized, word-by-word lyrics for millions of songs.</string>
   <string name="feat_download_title">Offline Playback</string>
@@ -851,7 +851,7 @@
   <string name="welcome_update_status">Updated</string>
   <string name="welcome_update_intro">Ensuring you have the latest features and security improvements.</string>
   <string name="welcome_checking_updates">Checking for updates…</string>
-  <string name="welcome_up_to_date">JanSiv-Musix is up to date!</string>
+  <string name="welcome_up_to_date">Mixtape is up to date!</string>
   <string name="welcome_update_available">New version is available: %s</string>
   <string name="welcome_everything_ready">Everything is now up to date</string>
   <string name="commits_title">Commits</string>

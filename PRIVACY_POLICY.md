@@ -1,8 +1,8 @@
-﻿# Privacy Policy for JanSiv-Musix App
+﻿# Privacy Policy for Mixtape App
 
 ## Introduction
 
-JanSiv-Musix ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Mixtape ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
 ## Information We Collect
 
@@ -119,9 +119,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
-- **GitHub**: [https://github.com/Siva2006-Mahalingam/JanSiv-Musix](https://github.com/Siva2006-Mahalingam/JanSiv-Musix)
-- **Issues**: [https://github.com/Siva2006-Mahalingam/JanSiv-Musix/issues](https://github.com/Siva2006-Mahalingam/JanSiv-Musix/issues)
-- **Discussions**: [https://github.com/Siva2006-Mahalingam/JanSiv-Musix/discussions](https://github.com/Siva2006-Mahalingam/JanSiv-Musix/discussions)
+- **GitHub**: [https://github.com/Siva2006-Mahalingam/Mixtape](https://github.com/Siva2006-Mahalingam/Mixtape)
+- **Issues**: [https://github.com/Siva2006-Mahalingam/Mixtape/issues](https://github.com/Siva2006-Mahalingam/Mixtape/issues)
+- **Discussions**: [https://github.com/Siva2006-Mahalingam/Mixtape/discussions](https://github.com/Siva2006-Mahalingam/Mixtape/discussions)
 
 ## Data Protection Compliance
 
@@ -141,5 +141,5 @@ This Privacy Policy complies with:
 
 ---
 
-**By using JanSiv-Musix, you agree to the collection and use of information in accordance with this Privacy Policy.**
+**By using Mixtape, you agree to the collection and use of information in accordance with this Privacy Policy.**
 

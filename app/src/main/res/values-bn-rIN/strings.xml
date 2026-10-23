@@ -24,7 +24,7 @@
     <string name="most_played_artists">সর্বাধিক শোনা শিল্পী</string>
     <string name="most_played_albums">সর্বাধিক শোনা অ্যালবাম</string>
     <string name="search">খুঁজুন</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">খুঁজুন লাইব্রেরি তে</string>
     <string name="filter_all">সব</string>
     <string name="filter_songs">সংগীত</string>
@@ -365,7 +365,7 @@
 
 
     <string name="spotify_import_title">স্পটিফাই থেকে ইমপোর্ট করুন</string>
-    <string name="spotify_import_desc">স্পটিফাই সংযুক্ত করুন, প্লেলিস্ট বেছে নিন এবং সেগুলিকে স্থানীয় JanSiv-Musix প্লেলিস্টে মিরর করুন।</string>
+    <string name="spotify_import_desc">স্পটিফাই সংযুক্ত করুন, প্লেলিস্ট বেছে নিন এবং সেগুলিকে স্থানীয় Mixtape প্লেলিস্টে মিরর করুন।</string>
     <string name="spotify_connect">স্পটিফাই সংযুক্ত করুন</string>
     <string name="spotify_refresh">স্পটিফাই লাইব্রেরি রিফ্রেশ করুন</string>
     <string name="spotify_select_sources">স্পটিফাই প্লেলিস্ট নির্বাচন করুন</string>

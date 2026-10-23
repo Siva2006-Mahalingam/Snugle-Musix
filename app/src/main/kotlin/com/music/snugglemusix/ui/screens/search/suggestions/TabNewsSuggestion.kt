@@ -1,4 +1,4 @@
-
+﻿
 
 package com.snuggle.music.ui.screens.search.suggestions
 
@@ -210,7 +210,7 @@ fun SuggestionsTabContent(
                             color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
                         )
                         Text(
-                            text = "JanSiv-Musix",
+                            text = "Mixtape",
                             style = MaterialTheme.typography.labelSmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f),
                             fontWeight = FontWeight.Bold

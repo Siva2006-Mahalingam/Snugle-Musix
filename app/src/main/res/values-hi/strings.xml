@@ -61,7 +61,7 @@
     <string name="new_release_albums">नईं रिलीज हुईं एलबम</string>
     <string name="last_week">पिछले हफ्ते</string>
     <string name="most_played_albums">अधिकतम सुनीं गईं एलबम</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="filter_playlists">चाल सूचियां</string>
     <string name="filter_bookmarked">चिह्नित</string>
     <string name="library_song_empty">संग्रह के गाने यहाँ दिखेंगे</string>
@@ -339,7 +339,7 @@
 
 
     <string name="spotify_import_title">स्पॉटिफाई से आयात करें</string>
-    <string name="spotify_import_desc">स्पॉटिफाई कनेक्ट करें, प्लेलिस्ट चुनें और उन्हें स्थानीय JanSiv-Musix प्लेलिस्ट में मिरर करें।</string>
+    <string name="spotify_import_desc">स्पॉटिफाई कनेक्ट करें, प्लेलिस्ट चुनें और उन्हें स्थानीय Mixtape प्लेलिस्ट में मिरर करें।</string>
     <string name="spotify_connect">स्पॉटिफाई कनेक्ट करें</string>
     <string name="spotify_refresh">स्पॉटिफाई लाइब्रेरी ताज़ा करें</string>
     <string name="spotify_select_sources">स्पॉटिफाई प्लेलिस्ट चुनें</string>

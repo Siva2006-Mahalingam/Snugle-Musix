@@ -24,7 +24,7 @@
     <string name="most_played_artists">Eniten soitetut artistit</string>
     <string name="most_played_albums">Eniten soitetut albumit</string>
     <string name="search">Etsi</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Hae kirjastosta…</string>
     <string name="filter_library">Kirjasto</string>
     <string name="filter_liked">Tykätty</string>
@@ -353,7 +353,7 @@
 
 
     <string name="spotify_import_title">Tuo Spotifysta</string>
-    <string name="spotify_import_desc">Yhdistä Spotify, valitse soittolistat ja peilaa ne paikallisiksi JanSiv-Musix-soittolistoiksi.</string>
+    <string name="spotify_import_desc">Yhdistä Spotify, valitse soittolistat ja peilaa ne paikallisiksi Mixtape-soittolistoiksi.</string>
     <string name="spotify_connect">Yhdistä Spotify</string>
     <string name="spotify_refresh">Päivitä Spotify-kirjasto</string>
     <string name="spotify_select_sources">Valitse Spotify-soittolistat</string>

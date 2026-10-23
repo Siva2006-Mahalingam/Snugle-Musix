@@ -26,7 +26,7 @@
     <string name="most_played_artists">Najczęściej słuchani artyści</string>
     <string name="most_played_albums">Najczęściej słuchane albumy</string>
     <string name="search">Szukaj</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Szukaj w bibliotece…</string>
     <string name="filter_library">Biblioteka</string>
     <string name="filter_liked">Polubione</string>
@@ -374,7 +374,7 @@
 
 
     <string name="spotify_import_title">Importuj z Spotify</string>
-    <string name="spotify_import_desc">Połącz Spotify, wybierz playlisty i odzwierciedl je w lokalnych playlistach JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Połącz Spotify, wybierz playlisty i odzwierciedl je w lokalnych playlistach Mixtape.</string>
     <string name="spotify_connect">Połącz Spotify</string>
     <string name="spotify_refresh">Odśwież bibliotekę Spotify</string>
     <string name="spotify_select_sources">Wybierz playlisty Spotify</string>

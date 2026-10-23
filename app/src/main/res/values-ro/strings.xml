@@ -24,7 +24,7 @@
     <string name="most_played_artists">Cei mai redați artiști</string>
     <string name="most_played_albums">Cele mai redate albume</string>
     <string name="search">Caută</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Caută în bibliotecă…</string>
     <string name="filter_library">Bibliotecă</string>
     <string name="filter_liked">Apreciate</string>
@@ -365,7 +365,7 @@
 
 
     <string name="spotify_import_title">Importă din Spotify</string>
-    <string name="spotify_import_desc">Conectează Spotify, alege playlisturile și oglindește-le în playlisturi locale JanSiv-Musix.</string>
+    <string name="spotify_import_desc">Conectează Spotify, alege playlisturile și oglindește-le în playlisturi locale Mixtape.</string>
     <string name="spotify_connect">Conectează Spotify</string>
     <string name="spotify_refresh">Reîmprospătează biblioteca Spotify</string>
     <string name="spotify_select_sources">Selectează playlisturile Spotify</string>

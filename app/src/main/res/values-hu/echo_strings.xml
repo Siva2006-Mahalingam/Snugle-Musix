@@ -240,7 +240,7 @@
   <string name="enable_scrobbling">Scrobbling engedÃ©lyezÃ©se</string>
   <string name="lastfm_now_playing">\"Ã‰pp hallgatott\" Ã¡llapot kÃ¼ldÃ©se</string>
   <string name="last_fm_send_likes">KedvelÃ©sek kÃ¼ldÃ©se</string>
-  <string name="last_fm_send_likes_description">Dalok kedvencnek jelÃ¶lÃ©se/tÃ¶rlÃ©se a Last.fm-en, ha a JanSiv-Musix-ben kedveled/nem kedveled Å‘ket</string>
+  <string name="last_fm_send_likes_description">Dalok kedvencnek jelÃ¶lÃ©se/tÃ¶rlÃ©se a Last.fm-en, ha a Mixtape-ben kedveled/nem kedveled Å‘ket</string>
   <string name="logging_in">BejelentkezÃ©sâ€¦</string>
   <string name="scrobbling_configuration">Scrobbling beÃ¡llÃ­tÃ¡sa</string>
   <string name="scrobble_min_track_duration">EnnÃ©l hosszabb szÃ¡mok scrobble-olÃ¡sa</string>

@@ -1,4 +1,4 @@
-
+﻿
 
 package com.snuggle.music.snugglemusix.updater
 
@@ -442,7 +442,7 @@ fun UpdateScreen(navController: NavHostController) {
                                         horizontalAlignment = Alignment.Start
                                     ) {
                                         Text(
-                                            text = "What's New in JanSiv-Musix",
+                                            text = "What's New in Mixtape",
                                             style = MaterialTheme.typography.titleMedium,
                                             fontWeight = FontWeight.Bold,
                                             color = MaterialTheme.colorScheme.primary,

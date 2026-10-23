@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/Snuggle-new.png" alt="JanSiv-Musix Logo" width="100" />
+<img src="assets/Snuggle-new.png" alt="Mixtape Logo" width="100" />
 
-# JanSiv-Musix
+# Mixtape
 
-### A free, open-source music player for Android.
+### "Your Music. Your Vibe."
 
 A modern music listening experience built around Material 3, personalisation, and powerful playback features.
 
@@ -18,9 +18,9 @@ A modern music listening experience built around Material 3, personalisation, an
 
 ## Overview
 
-**JanSiv-Musix** is a free, open-source music player for Android designed around a modern Material 3 experience. It combines clean visual design with rich audio playback capabilities, giving you full control over your listening experience with zero advertisements and zero invasive telemetry.
+**Mixtape** is a free, open-source music player for Android designed around a modern Material 3 experience. It combines clean visual design with rich audio playback capabilities, giving you full control over your listening experience with zero advertisements and zero invasive telemetry.
 
-Whether streaming your favorite tracks or playing local audio files, JanSiv-Musix delivers high fidelity sound, real-time synchronized lyrics, and personalized themes that adapt to your device.
+Whether streaming your favorite tracks or playing local audio files, Mixtape delivers high fidelity sound, real-time synchronized lyrics, and personalized themes that adapt to your device.
 
 ---
 
@@ -34,9 +34,9 @@ Whether streaming your favorite tracks or playing local audio files, JanSiv-Musi
       <td align="center"><b>Search & Explore</b></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Music Player.jpeg" width="230" alt="JanSiv-Musix Player" /></td>
-      <td><img src="Screenshots/Synchronized lyrics.jpeg" width="230" alt="JanSiv-Musix Lyrics" /></td>
-      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="JanSiv-Musix Search" /></td>
+      <td><img src="Screenshots/Music Player.jpeg" width="230" alt="Mixtape Player" /></td>
+      <td><img src="Screenshots/Synchronized lyrics.jpeg" width="230" alt="Mixtape Lyrics" /></td>
+      <td><img src="Screenshots/Search and Explore.jpeg" width="230" alt="Mixtape Search" /></td>
     </tr>
     <tr>
       <td align="center"><b>Library & Playlists</b></td>
@@ -44,8 +44,8 @@ Whether streaming your favorite tracks or playing local audio files, JanSiv-Musi
       <td></td>
     </tr>
     <tr>
-      <td><img src="Screenshots/Playlist & library.jpeg" width="230" alt="JanSiv-Musix Library" /></td>
-      <td><img src="Screenshots/Song recognition.jpeg" width="230" alt="JanSiv-Musix Song Recognition" /></td>
+      <td><img src="Screenshots/Playlist & library.jpeg" width="230" alt="Mixtape Library" /></td>
+      <td><img src="Screenshots/Song recognition.jpeg" width="230" alt="Mixtape Song Recognition" /></td>
       <td></td>
     </tr>
   </table>
@@ -67,17 +67,17 @@ Whether streaming your favorite tracks or playing local audio files, JanSiv-Musi
 
 ---
 
-## Why JanSiv-Musix?
+## Why Mixtape?
 
-JanSiv-Musix is built around a simple idea: music players should feel personal.
+Mixtape is built around a simple idea: music players should feel personal.
 
-Many modern music apps have become cluttered with unwanted social feeds, intrusive advertisements, and rigid interfaces. JanSiv-Musix focuses on thoughtful interaction design, fluid performance, audio customization, and giving users true ownership of their music listening experience.
+Many modern music apps have become cluttered with unwanted social feeds, intrusive advertisements, and rigid interfaces. Mixtape focuses on thoughtful interaction design, fluid performance, audio customization, and giving users true ownership of their music listening experience.
 
 ---
 
 ## Tech Stack
 
-JanSiv-Musix is built natively for Android using modern Android architecture components:
+Mixtape is built natively for Android using modern Android architecture components:
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) with Material 3 Design
@@ -94,7 +94,7 @@ JanSiv-Musix is built natively for Android using modern Android architecture com
 
 The latest pre-built APK is available directly on GitHub Releases:
 
-📦 **[Download JanSiv-Musix APK](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)**
+📦 **[Download Mixtape APK](https://github.com/Siva2006-Mahalingam/Snugle-Musix/releases/latest)**
 
 ---
 
@@ -132,4 +132,4 @@ Contributions, bug reports, and feature requests are welcome!
 
 ## License
 
-JanSiv-Musix is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
+Mixtape is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).

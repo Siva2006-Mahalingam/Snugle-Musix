@@ -24,7 +24,7 @@
     <string name="most_played_artists">Meest afgespeelde artiesten</string>
     <string name="most_played_albums">Meest afgespeelde artiesten</string>
     <string name="search">Zoeken</string>
-    <string name="search_yt_music">Search in JanSiv-Musix…</string>
+    <string name="search_yt_music">Search in Mixtape…</string>
     <string name="search_library">Zoeken in bibliotheek…</string>
     <string name="filter_library">Bibliotheek</string>
     <string name="filter_liked">Geliked</string>
@@ -353,7 +353,7 @@
 
 
     <string name="spotify_import_title">Importeren vanuit Spotify</string>
-    <string name="spotify_import_desc">Verbind Spotify, kies afspeellijsten en kopieer ze naar lokale JanSiv-Musix-afspeellijsten.</string>
+    <string name="spotify_import_desc">Verbind Spotify, kies afspeellijsten en kopieer ze naar lokale Mixtape-afspeellijsten.</string>
     <string name="spotify_connect">Spotify verbinden</string>
     <string name="spotify_refresh">Spotify-bibliotheek vernieuwen</string>
     <string name="spotify_select_sources">Selecteer Spotify-afspeellijsten</string>
