@@ -415,18 +415,22 @@ fun UpdateScreen(navController: NavHostController) {
                                     Surface(
                                         modifier = Modifier
                                             .fillMaxWidth()
-                                            .height(200.dp),
+                                            .height(180.dp),
                                         shape = RoundedCornerShape(24.dp),
-                                        color = MaterialTheme.colorScheme.surfaceContainerHigh
+                                        color = androidx.compose.ui.graphics.Color.White,
+                                        shadowElevation = 4.dp
                                     ) {
                                         Box(
                                             contentAlignment = Alignment.Center,
-                                            modifier = Modifier.fillMaxSize()
+                                            modifier = Modifier
+                                                .fillMaxSize()
+                                                .padding(horizontal = 24.dp, vertical = 14.dp)
                                         ) {
                                             androidx.compose.foundation.Image(
-                                                painter = painterResource(R.drawable.ic_launcher_foreground),
+                                                painter = painterResource(R.drawable.mixtape_about_logo),
                                                 contentDescription = "Mixtape Logo",
-                                                modifier = Modifier.size(150.dp)
+                                                modifier = Modifier.fillMaxSize(),
+                                                contentScale = ContentScale.Fit
                                             )
                                         }
                                     }

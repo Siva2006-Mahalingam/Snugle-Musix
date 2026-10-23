@@ -23,6 +23,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.graphics.luminance
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.platform.LocalUriHandler
 import androidx.compose.ui.res.painterResource
@@ -128,15 +129,21 @@ private fun WelcomeAppCard() {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
-            val isDark = MaterialTheme.colorScheme.surface.luminance() < 0.5f
-            AsyncImage(
-                model = R.mipmap.ic_launcher,
-                contentDescription = null,
-                modifier = Modifier
-                    .size(100.dp)
-                    .clip(CircleShape)
-                    .background(MaterialTheme.colorScheme.surfaceContainer),
-            )
+            Surface(
+                modifier = Modifier.size(100.dp),
+                shape = CircleShape,
+                color = androidx.compose.ui.graphics.Color.White,
+                shadowElevation = 4.dp
+            ) {
+                androidx.compose.foundation.Image(
+                    painter = painterResource(R.drawable.mixtape_about_logo),
+                    contentDescription = "Mixtape Logo",
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(8.dp),
+                    contentScale = ContentScale.Fit
+                )
+            }
             Spacer(Modifier.height(4.dp))
             Text(
                 text = "Mixtape",

@@ -29,6 +29,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.graphics.luminance
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.platform.LocalUriHandler
@@ -170,7 +171,7 @@ private fun AboutAppCard() {
             )
             val logoDrawable = R.drawable.ic_launcher_foreground
 
-            Box(
+            Surface(
                 modifier = Modifier
                     .size(100.dp)
                     .graphicsLayer {
@@ -179,29 +180,33 @@ private fun AboutAppCard() {
                         scaleY = scale
                         cameraDistance = 12f * density
                     }
-                    .clip(CircleShape)
-                    .background(MaterialTheme.colorScheme.surfaceContainer)
                     .clickable(
                         interactionSource = interactionSource,
                         indication = null,
                         onClick = { isEasterEggActive = !isEasterEggActive }
                     ),
-                contentAlignment = Alignment.Center
+                shape = CircleShape,
+                color = androidx.compose.ui.graphics.Color.White,
+                shadowElevation = 4.dp
             ) {
                 if (rotation <= 90f) {
                     Image(
-                        painter = painterResource(logoDrawable),
-                        contentDescription = "Mixtape Logo",
-                        modifier = Modifier.fillMaxSize().clip(CircleShape)
-                    )
-                } else {
-                    Image(
-                        painter = painterResource(logoDrawable),
+                        painter = painterResource(R.drawable.mixtape_about_logo),
                         contentDescription = "Mixtape Logo",
                         modifier = Modifier
                             .fillMaxSize()
-                            .clip(CircleShape)
-                            .graphicsLayer { rotationY = 180f }
+                            .padding(8.dp),
+                        contentScale = ContentScale.Fit
+                    )
+                } else {
+                    Image(
+                        painter = painterResource(R.drawable.mixtape_about_logo),
+                        contentDescription = "Mixtape Logo",
+                        modifier = Modifier
+                            .fillMaxSize()
+                            .padding(8.dp)
+                            .graphicsLayer { rotationY = 180f },
+                        contentScale = ContentScale.Fit
                     )
                 }
             }

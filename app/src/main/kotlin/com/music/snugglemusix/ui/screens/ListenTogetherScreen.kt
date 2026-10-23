@@ -802,7 +802,7 @@ private fun RoomStatusCard(
             if (isHost) {
                 Spacer(modifier = Modifier.height(16.dp))
                 val inviteLink = remember(roomCode) {
-                    "https://prasanna0705.netlify.app/Snuggle-Musix/listen?code=$roomCode"
+                    "https://siva2006-mahalingam.github.io/Snugle-Musix/listen?code=$roomCode"
                 }
                 Row(
                     verticalAlignment = Alignment.CenterVertically,
